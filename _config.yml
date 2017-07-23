@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Javier Ruiz-Soler"
+title                    : "Javier Ruiz Soler"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Javier Ruiz-Soler"
 description              : &description "PhD Candidate at the European University Institute."
 url                      : https://jaruizso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Javier Ruiz-Soler"
+  name             : ""
   avatar           : "photo.jpg"
   bio              : "PhD Researcher at the European University Institute"
   location         : #"Europe"
