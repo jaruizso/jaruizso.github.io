@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Javier Ruiz-Soler"
-  avatar           : "profile.png"
+  avatar           : "bio-photo3.jpg"
   bio              : "PhD Researcher at the European University Institute"
   location         : #"Europe"
   employer         :
@@ -95,9 +95,9 @@ author:
   github           : "jaruizso"
   google_plus      :
   keybase          :
-  instagram        : "http://instagram/jaruizso"
+  instagram        : "jaruizso"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jaruizso/"
+  linkedin         : "jaruizso"
   orcid            : "http://orcid.org/0000-0003-2203-1134"
   pinterest        :
   soundcloud       :
