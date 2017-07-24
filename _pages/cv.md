@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-**`{: .notice}`Donwload the CV [here](jaruizso.eu/files/Javier_Ruiz-Soler_September_2017.pdf)**
+**Donwload the CV `[here](jaruizso.eu/files/Javier_Ruiz-Soler_September_2017.pdf)**
+{: .notice}
 
 {% include base_path %}
 
