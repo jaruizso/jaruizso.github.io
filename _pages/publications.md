@@ -30,9 +30,9 @@ Selected Publications
 Press
 ======
 
-- Ruiz-Soler, Javier (2016), Reactions to Juncker’s State of the Union speech show the difficulties in creating a European public sphere online. LSE European Politics and Policy (EUROPP) Blog (22 Sep 2016). Blog Entry.” [LINK](http://blogs.lse.ac.uk/europpblog/2016/09/22/soteu-twitter-european-public-sphere/)
+- Ruiz-Soler, Javier (2016), Reactions to Juncker’s State of the Union speech show the difficulties in creating a European public sphere online. LSE European Politics and Policy (EUROPP) Blog (22 Sep 2016). Blog Entry.” **<ins>[LINK](http://blogs.lse.ac.uk/europpblog/2016/09/22/soteu-twitter-european-public-sphere/)</ins>**
 
-- Ruiz Soler, Javier (2012), The Euroblogosphere has great potential to contribute to the European public sphere. LSE European Politics and Policy (EUROPP) Blog (27 Oct 2012). Blog Entry. [LINK](http://blogs.lse.ac.uk/europpblog/2012/10/27/the-euroblogosphere-javier-ruiz-soler/) 
+- Ruiz Soler, Javier (2012), The Euroblogosphere has great potential to contribute to the European public sphere. LSE European Politics and Policy (EUROPP) Blog (27 Oct 2012). Blog Entry.  **<ins>[LINK](http://blogs.lse.ac.uk/europpblog/2012/10/27/the-euroblogosphere-javier-ruiz-soler/)</ins>** 
 
-- Ruiz-Soler, Javier (2012), How can internet contribute to civil participation? The case of Eurobloggers. Heinrich Böll Foundation. Blog (24 Sep 2012). Blog Entry. [LINK](https://www.boell.de/de/node/276608)
+- Ruiz-Soler, Javier (2012), How can internet contribute to civil participation? The case of Eurobloggers. Heinrich Böll Foundation. Blog (24 Sep 2012). Blog Entry. **<ins>[LINK](https://www.boell.de/de/node/276608)</ins>**
 
