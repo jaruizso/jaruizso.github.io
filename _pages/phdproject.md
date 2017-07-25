@@ -4,7 +4,7 @@ title: "PhD Project"
 permalink: /phd-project/
 author_profile: true
 ---
-## Twitter as the new Coffe house? The mapping of the European Political Twittersphere and its significance for the European Public Sphere
+## Twitter as the new Coffe house? _The mapping of the European Political Twittersphere and its significance for the European Public Sphere_
 
 ### Theoretical Framework
 
@@ -12,7 +12,7 @@ Scholars have researched the emergence of a European public sphere (EPS) where c
 The argument of my PhD project is that the Internet seems to hold much potential in contributing to the emerging of an EPS given that it is comprised of many citizens writing their personal opinions on EU matters, usually in different languages and in different online platforms. From a participatory perspective, it might help in the democratisation of European discussions, as the international audiences now can avoid the political and cultural filters of the national media when engaging in online debates. The Internet, owing to its characteristics (cheap, global and two-way communication) can be seen as one of the several possibilities contributing to the development of a –real and horizontal– European public sphere.
 
 
-The Ph.D. project is divided in three academic papers. Each one of them with different angle but using the same data. I use a computational social science approach....
+The Ph.D. project is divided in three academic papers. Each one of them with different angle but using the same data. I use a computational social science approach. For the first paper network analysis of the interaction focusing on the actor level using iGraph. The second paper network analyis as well, however focusing on the whole network level and the geolocation of tweets with the Google Maps API. The third paper uses content and sentiment analysis with quanteda R package.
 
 
 
@@ -31,7 +31,6 @@ Data from March 2016 to today collected by the [Twitter Capture Analysis](https:
 | Discussion online regarding British withdrawal from the European Union   | #brexit   | Political  |
 | Eurovision Song Contest  | #eurvision   | Culture   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
 
 
 
