@@ -6,25 +6,25 @@ author_profile: true
 ---
 
 If you have questions, or would like to get in touch regarding my research, please, do not hesitate to contact me.
-
+{: .notice}
 
 Selected Publications
 ======
 
-- Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a Networked Public Sphere study”, **[Work In Progress]**
+[7] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a Networked Public Sphere study”, **[Work In Progress]**
 
-- Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Work In Progress]**
+[6] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Work In Progress]**
 
-- Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a content and sentiment analysis of European topics”, **[Work In Progress]**
+[5] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a content and sentiment analysis of European topics”, **[Work In Progress]**
+ 
 
+[4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).**[available soon]**
 
-- Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
+[3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data.”, Revista Dígitos, 3, ISSN: 2444-0132.
 
-- Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data.”, Revista Dígitos, 3, ISSN: 2444-0132.
+[2] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0
 
-- Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0
-
-- Ruiz-Soler, Javier (2012), "Who blogs what? A qualitative study on the role of the Euroblogosphere in a context of a European Public Sphere. Master Thesis. Lund University, Sweden.
+[1] Ruiz-Soler, Javier (2012), "Who blogs what? A qualitative study on the role of the Euroblogosphere in a context of a European Public Sphere. Master Thesis. Lund University, Sweden.
 
 
 Press
