@@ -1,5 +1,5 @@
 ---
-title: "International Seminar “Our Europe 2021” organized by Europaforum"
+title: "International Seminar Our Europe 2021"
 collection: talks
 type: "Talk"
 permalink: /talks/europaforum
