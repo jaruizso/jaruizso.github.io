@@ -36,4 +36,4 @@ Research Interests
     
 
 |-----|-----|-----|------|-----|
-|![image-right](/images/epsa.png)  | ![image-right](/images/aoir.png) |![image-right](/images/ecrea.png) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
+|![image-right](/images/epsa.png)  | ![image-right](/images/aoir.png) |![image-right](/images/ecrea.jpg) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
