@@ -28,9 +28,10 @@ DATA VISUALIZATION
 - ggplot2
 - Shiny
 - Plotly
+- Sigma.js
 
 RESEARCH		
-- Social Network Analysis (Gephi and iGraph)  
+- Social Network Analysis (Gephi and iGraph, Sigma.js)  
 - Content and Sentiment analysis (quanteda)
 
 
