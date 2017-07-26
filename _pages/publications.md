@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 If you have questions or would like to get in touch regarding my research, do not hesitate to contact me.
-{: .notice}
+{: .notice--success}
 
 Selected Publications
 ======

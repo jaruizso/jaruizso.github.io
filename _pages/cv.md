@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Donwload the CV **[here](/files/2017.pdf)**
-{: .notice}
+{: .notice--success}
 
 {% include base_path %}
 

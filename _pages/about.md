@@ -39,4 +39,4 @@ Affiliations
 ======
 
 |-----|-----|-----|------|-----|
-|![image-left](/images/ica.png)  | ![image-left](/images/aoir.png) |![image-left](/images/ecrea.png) |![image-left](/images/ecpr.png) |
+|![image-left](/images/epsa.png)  | ![image-left](/images/aoir.png) |![image-left](/images/ecrea.png) |![image-left](/images/ecpr.png) |![image-left](/images/ica.png) |
