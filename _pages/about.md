@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![image-center](/images/euilogo.png){: .align-center}
+![image-left](/images/euilogo.png){: .align-right}
+
 I am researcher and Ph.D. student at the Department of Political and Social Sciences of the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/). 
 {: .text-justify}
 My Ph.D. dissertation explores and analyzes the interactions' networks of users under Twitter hashtags of European relevance, as well as its content. The project strives to complement the literature of the European Public Sphere from an innovative computational social sciences approach.
@@ -38,4 +39,4 @@ Affiliations
 ======
 
 |-----|-----|-----|------|-----|
-|ICA  |EPSA |AOIR |ECREA |ECPR |
+|![image-left](/images/ica.png)  | ![image-left](/images/aoir.png) |![image-left](/images/ecrea.png) |![image-left](/images/ecpr.png) |
