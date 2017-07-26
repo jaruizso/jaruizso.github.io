@@ -33,10 +33,9 @@ Research Interests
 - Social media and politics.
 - Computational methods, network analysis, content & sentiment analysis, big data.
 - Digital methods: Twitter data, issue mapping, social media analytics.
-
-
-Affiliations
-======
+ 
+  
+    
 
 |-----|-----|-----|------|-----|
-|![image-left](/images/epsa.png)  | ![image-left](/images/aoir.png) |![image-left](/images/ecrea.png) |![image-left](/images/ecpr.png) |![image-left](/images/ica.png) |
+|![/images/epsa.png](www.epsa.net)  | ![image-right](/images/aoir.png) |![image-right](/images/ecrea.png) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
