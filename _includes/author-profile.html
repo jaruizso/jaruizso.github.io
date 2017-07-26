@@ -100,6 +100,12 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+       {% if author.academia %}
+        <li><a href="https://academia.edu/{{ author.academia }}"><i class="fa fa-fw fa-university" aria-hidden="true"></i> Academia.edu</a></li>
+      {% endif %}
+       {% if author.researchgate %}
+        <li><a href="https://researchgate.net/{{ author.researchgate }}"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Researchgate</a></li>
+      {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
       {% endif %}

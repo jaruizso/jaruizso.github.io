@@ -28,7 +28,7 @@ I speak several languages (Catalan, Spanish, English and Swedish, and getting th
 Research Interests
 ======
 - European Public Sphere, specially online.
-- Political Communication at the European level.
+- Political Communication, specially at the European level.
 - Social media and politics.
 - Computational methods, network analysis, content & sentiment analysis, big data.
 - Digital methods: Twitter data, issue mapping, social media analytics.
