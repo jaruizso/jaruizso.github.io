@@ -5,7 +5,7 @@ permalink: /code&skills/
 author_profile: true
 ---
 
-During these years I have aquired a toolset of computational and digital methods. The following are the  
+During these years I have aquired a toolset of computational and digital methods:
 
 
 COMPUTATIONAL

@@ -36,9 +36,6 @@ Research Interests
 
 Affiliations
 ======
-|:--------|:-------:|--------:|--------:|
-| ICA   | EPSA   | AOIR   |ECREA  |
-|---------------------------------------|
 
-|-----|-----|-----|------|
-|ICA  |EPSA |AOIR |ECREA |
+|-----|-----|-----|------|-----|
+|ICA  |EPSA |AOIR |ECREA |ECPR |
