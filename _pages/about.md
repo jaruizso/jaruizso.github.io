@@ -29,7 +29,14 @@ Research Interests
 ======
 - European Public Sphere, specially online.
 - Political Communication at the European level.
-- Computational Social Sciences (Twitter data, network analysis and content & sentiment analysis).
-- Politics in social media.
+- Social media and politics.
+- Computational methods, network analysis, content & sentiment analysis, big data.
+- Digital methods: Twitter data, issue mapping, social media analytics.
 
+
+Affiliations
+======
+|:--------|:-------:|--------:|--------:|
+| ICA   | EPSA   | AOIR   |ECREA  |
+|---------------------------------------|
 

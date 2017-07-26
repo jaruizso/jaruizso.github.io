@@ -57,4 +57,7 @@ Work experience
   
 Service and leadership
 ======
-* Data for Democracy Data Analyst
+* Data for Democracy Data Analyst.
+* Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
+* Organizer Workshop “Python for the Social Sciences” at the EUI. Guest Professor: Jonathan Bright, Oxford University.
+* Organizer Workshop “Social Scientific Network Analysis” at the EUI. Guest Professor: Carl Nordlunf, CEU.
