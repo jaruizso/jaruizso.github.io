@@ -15,7 +15,7 @@ My Ph.D. dissertation explores and analyzes the interactions' networks of users 
 
 I have been a Visiting Scholar at the Digital Media, Networks and Political Communication [(Dimenet)](http://http://dimenet.asc.upenn.edu) research group at the Annenberg School for Communication of the University of Pennsylvania, with Professor [Sandra González-Bailón](https://www.asc.upenn.edu/node/648). At the Dimenet I have been working with network science, data mining and political communication for my Ph.D. project.
 
-I am also Visiting Scholar at the Public Opinion & Media Lab [(Pomlab)](http://www.pomlab.unimi.it) and [Voices from the Blogs](https://www.voices-int.com/?language=en) of the University of Milan, with Professors [Mauro Barisione](http://users2.unimi.it/barisione/), [Luigi Curini](http://www.luigicurini.com) and [Andrea Ceron](https://andreaceron.com). At the Pomlab and Voices I have been working with content and sentiment analysis for my Ph.D.
+I am also Visiting Scholar at the Public Opinion & Media Lab [(Pomlab)](http://www.pomlab.unimi.it) and [Voices from the Blogs](https://www.voices-int.com/?language=en) of the University of Milan, with Professors [Mauro Barisione](http://users2.unimi.it/barisione/), [Luigi Curini](http://www.luigicurini.com) and [Andrea Ceron](https://andreaceron.com). At the Pomlab and Voices I am working with content and sentiment analysis for my Ph.D.
 
 
 

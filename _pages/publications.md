@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-If you have questions, or would like to get in touch regarding my research, please, do not hesitate to contact me.
+If you have questions or would like to get in touch regarding my research, do not hesitate to contact me.
 {: .notice}
 
 Selected Publications
