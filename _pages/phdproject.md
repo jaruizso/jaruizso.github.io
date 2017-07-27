@@ -4,7 +4,7 @@ title: "PhD Project"
 permalink: /phd-project/
 author_profile: true
 ---
-**Twitter as the new Coffe house?**
+**Twitter as the new Coffee House?**
 {: .text-center} 
 _The mapping of the European Political Twittersphere and its significance for the European Public Sphere_
 {: .text-center}
@@ -44,7 +44,7 @@ The paper shows empirical evidence of the normative concept of Networked Public 
 
 ### Paper 2: a transnational European Public Sphere
 
-![image-right](/images/europeannetwork.png) The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location, framed aroun the theory of the European Public Sphere. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
+The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location, framed aroun the theory of the European Public Sphere. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
 The results show that there is certain degree of transnational European Public Sphere in these topics. However they are still small compared to discussion about the topics made nationally.
 {: .text-justify}
 

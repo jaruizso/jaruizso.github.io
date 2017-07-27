@@ -1,0 +1,110 @@
+---
+layout: archive
+title: "Code & Skills"
+permalink: /code&skills/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic sigma.js example</title>
+  <style type="text/css">
+    body {
+      margin: 0;
+    }
+    #container {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="container"></div>
+  <script src="./sigma.min.js"></script>
+  <script>
+    // Let's first initialize sigma:
+    var s = new sigma('container');
+
+    // Then, let's add some data to display:
+    s.graph.addNode({
+      // Main attributes:
+      id: 'n0',
+      label: 'Hello',
+      // Display attributes:
+      x: 0,
+      y: 0,
+      size: 1,
+      color: '#f00'
+    }).addNode({
+      // Main attributes:
+      id: 'n1',
+      label: 'World !',
+      // Display attributes:
+      x: 1,
+      y: 1,
+      size: 1,
+      color: '#00f'
+    }).addEdge({
+      id: 'e0',
+      // Reference extremities:
+      source: 'n0',
+      target: 'n1'
+    });
+
+    // Finally, let's ask our sigma instance to refresh:
+    s.refresh();
+  </script>
+</body>
+</html>
+
+
+
+During these years I have aquired a toolset of computational and digital methods.
+{: .notice--success}
+
+Training
+======
+|:---------------------------------------------------|:-------------:
+| Content and Sentiment analysis of Twitter with iSA | U. of Milan  | 
+| Big data management, network analysis & text data  | UPF Online   |
+|-------------------------------------------------------------------| 
+| Data Scientist with R                              | Datacamp     | 
+| Data Analysis with R                               | Datacamp     |
+|-------------------------------------------------------------------| 
+| Latent Semantic Analysis with R                    | IC2S2        |
+| Topic Modeling with Python                         | IC2S2        |
+|-------------------------------------------------------------------| 
+| Network Analysis with iGraph                       | U. Penn      | 
+| OII Internet Institute Summmer School              | Oxford U.    |
+|-------------------------------------------------------------------| 
+| Quantitative Methods and Statistics                | EUI          |
+|===================================================================|
+
+COMPUTATIONAL
+- R (3 years)			
+- Python (2 year)
+- Google Maps API.
+- Twitter Capture Analysis Toolkit (TCAT).
+- Twitter API(s)
+- Ubuntu
+- Bash/shell
+- SQL
+- Git
+- Web management (typo3, wordpress, jekyll, octopress)
+- Amazon AWS (3 years
+
+DATA VISUALIZATION	
+- Tableau
+- ggplot2
+- Shiny
+- Plotly
+- Sigma.js
+
+RESEARCH AND DATA ANALYSIS		
+- Social Network Analysis (Gephi, iGraph, Sigma.js)  
+- Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
+
+
+
