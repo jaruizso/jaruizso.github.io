@@ -30,18 +30,21 @@ Training
 | Quantitative Methods and Statistics   | EUI   |
 
 
+Skills
+======
+
 COMPUTATIONAL
 - R (3 years)			
 - Python (2 year)
-- Google Maps API.
-- Twitter Capture Analysis Toolkit (TCAT).
+- Google Maps API
+- Twitter Capture Analysis Toolkit (TCAT)
 - Twitter API(s)
 - Ubuntu
 - Bash/shell
 - SQL
 - Git
 - Web management (typo3, wordpress, jekyll, octopress)
-- Amazon AWS (3 years
+- Amazon AWS (3 years)
 
 DATA VISUALIZATION	
 - Tableau
