@@ -46,7 +46,7 @@ DATA VISUALIZATION
 - Plotly
 - Sigma.js
 
-RESEARCH		
+RESEARCH AND DATA ANALYSIS		
 - Social Network Analysis (Gephi, iGraph, Sigma.js)  
 - Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
 
