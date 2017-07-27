@@ -5,8 +5,26 @@ permalink: /code&skills/
 author_profile: true
 ---
 
-During these years I have aquired a toolset of computational and digital methods:
+During these years I have aquired a toolset of computational and digital methods.
+{: .notice--success}
 
+Training
+======
+|:---------------------------------------------------|:-------------:
+| Content and Sentiment analysis of Twitter with iSA | U. of Milan  | 
+| Big data management, network analysis & text data  | UPF Online   |
+|-------------------------------------------------------------------| 
+| Data Scientist with R                              | Datacamp     | 
+| Data Analysis with R                               | Datacamp     |
+|-------------------------------------------------------------------| 
+| Latent Semantic Analysis with R                    | IC2S2        |
+| Topic Modeling with Python                         | IC2S2        |
+|-------------------------------------------------------------------| 
+| Network Analysis with iGraph                       | U. Penn      | 
+| OII Internet Institute Summmer School              | Oxford U.    |
+|-------------------------------------------------------------------| 
+| Quantitative Methods and Statistics                | EUI          |
+|===================================================================|
 
 COMPUTATIONAL
 - R (3 years)			
@@ -33,18 +51,4 @@ RESEARCH
 - Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
 
 
-Aditional Training
-======
-|:---------------------------------------------------|:-------------:
-| Content and Sentiment analysis of Twitter with iSA | U. of Milan  | 
-| Big data management, network analysis & text data  | UPF Online   | 
-| Data Scientist with R                              | Datacamp     | 
-|-------------------------------------------------------------------|
-| Data Analysis with R                               | Datacamp     | 
-| Latent Semantic Analysis with R                    | IC2S2        |
-| Topic Modeling with Python                         | IC2S2        | 
-| Network Analysis with iGraph                       | U. Penn      | 
-|-------------------------------------------------------------------|
-| OII Internet Institute Summmer School              | Oxford U.    | 
-| Quantitative Methods and Statistics                | EUI          |
-|===================================================================|
+

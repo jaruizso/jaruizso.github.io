@@ -4,7 +4,9 @@ title: "PhD Project"
 permalink: /phd-project/
 author_profile: true
 ---
-**Twitter as the new Coffe house?** _The mapping of the European Political Twittersphere and its significance for the European Public Sphere_
+**Twitter as the new Coffe house?**
+{: .text-center} 
+_The mapping of the European Political Twittersphere and its significance for the European Public Sphere_
 {: .text-center}
 
 ### Theoretical Framework
@@ -18,7 +20,7 @@ The Ph.D. project is divided in three academic papers. Each one of them with dif
 
 ### Data
 
-Data from March 2016 to today collected by the [Twitter Capture Analysis](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki) from Amsterdam University installed in an Amazon EC2 Server.
+Data from March 2016 to today collected by the [Twitter Capture Analysis](https://github.com/digitalmethodsinitiative/dmi-tcat/wiki "TCAT") from Amsterdam University installed in an Amazon EC2 Server.
 
 | Issue Public | Hashtag | Nature |
 |:--------|:-------:|--------:|
@@ -42,14 +44,11 @@ The paper shows empirical evidence of the normative concept of Networked Public 
 
 ### Paper 2: a transnational European Public Sphere
 
-The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
+![image-right](/images/europeannetwork.png) The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
 The results show that there is certain degree of transnational European Public Sphere in these topics. However they are still small compared to discussion about the topics made nationally.
 {: .text-justify}
 
 ### Paper 3: a content and sentiment analysis of European topics
 
-The third article looks at the content of the networks. Once we have the characteristics of the noetworks, and once we know what kind of -transnational- interactions users have, its time to look how and what users talk about the topics mapped. The thirs article is a content & sentiment analyis.
+The third article looks at the content of the networks. Once we have the characteristics of the networks, and once we know what kind of -transnational- interactions users have, its time to look how and what users talk about the topics mapped. The thirs article is a content & sentiment analyis. More specifically I look at the patterns that arise when individuals speak and interact about issues of European relevance.
 {: .text-justify}
-
-
-![image-right](/images/europeannetwork.png) 
