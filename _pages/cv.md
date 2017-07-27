@@ -10,7 +10,7 @@ redirect_from:
 Donwload the CV **[here](/files/CV_Javier_Sept17.pdf)**
 {: .notice--success}
 
-{% include base_path %}
+
 
 Education
 ======
@@ -49,10 +49,7 @@ Work experience
  
   
 * Co-editor bolgginportal.eu
-  * Curator of blogs, posts and the "Editors choice"
-  * Supervisor: Alexa Robertson 
- 
-  
+  * Curator of blogs, posts and the "Editors choice"  
    
   
 Service and leadership
@@ -60,4 +57,4 @@ Service and leadership
 * Data for Democracy Data Analyst.
 * Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
 * Organizer Workshop “Python for the Social Sciences” at the EUI. Guest Professor: Jonathan Bright, Oxford University.
-* Organizer Workshop “Social Scientific Network Analysis” at the EUI. Guest Professor: Carl Nordlunf, CEU.
+* Organizer Workshop “Social Scientific Network Analysis” at the EUI. Guest Professor: Carl Nordlund, CEU.
