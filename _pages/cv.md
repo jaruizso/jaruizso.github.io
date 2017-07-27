@@ -18,37 +18,37 @@ Education
 	- Visiting Scholar Dimenet research group, University of Pennsylvania
 	- Visiting Scholar Pomlab, University of Milan
 * M.A. in European Studies, Lund University, 2012.
-	- Erasmus Internship JEF Europe, Brussels.
+	- Erasmus Internship JEF Europe, Brussels
 * B.S. in Contemporary History, University of Valencia, 2009.
-	- Erasmus exchange Södertorns Högskola, Sweden.
+	- Erasmus exchange Södertorns Högskola, Sweden
  
   
    
    
 Work experience
 ======
-* POLCON Project Coder
+* POLCON Project Coder.
   * Coding of protest events for content analysis
   * Supervisor: Hanspeter Kriesi
  
  
-* Communications Manager PriFest Film festival
+* Communications Manager PriFest Film Festival.
   * Coordination and implementation of the online communication' strategy
   * Project and event management
  
  
-* Head of Communications TEDx Stockholm
+* Head of Communications TEDx Stockholm.
   * Coordination and implementation of the communications' strategy
   * Project and event management
   * Press Management
  
     
-* Researcher Stockholm University
+* Researcher Stockholm University.
   * Coder of data snippets from different international TV channels
   * Supervisor: Alexa Robertson
  
   
-* Co-editor bolgginportal.eu
+* Co-editor bolgginportal.eu.
   * Curator of blogs, posts and the "Editors choice"  
    
   
