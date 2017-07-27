@@ -26,6 +26,28 @@ Training
 | Quantitative Methods and Statistics                | EUI          |
 |-------------------------------------------------------------------| 
 
+
+
+|:--------|:-------:|--------:|
+| Content and Sentiment analysis of Twitter with iSA   | U. of Milan   | cell3   |
+| Big data management, network analysis & text data   | UPF Online   | cell6   |
+|-----------------------------|
+| Data Scientist with R   | Datacamp   | cell3   |
+| Data Analysis with R   | Datacamp   | cell6   |
+|-----------------------------|
+| Latent Semantic Analysis with R    | Datacamp   | cell3   |
+| Topic Modeling with Python    | Datacamp   | cell6   |
+|-----------------------------|
+| Data Scientist with R   | IC2S2   | cell3   |
+| Data Analysis with R   | IC2S2  | cell6   |
+|-----------------------------|
+| Network Analysis with iGraph   | U. Penn    | cell3   |
+| OII Internet Institute Summmer School  | Oxford U.  | cell6   |
+|=============================|
+| Quantitative Methods and Statistics   | EUI   | Foot3   |
+
+
+
 COMPUTATIONAL
 - R (3 years)			
 - Python (2 year)
