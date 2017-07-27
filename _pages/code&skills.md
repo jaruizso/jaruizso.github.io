@@ -9,8 +9,6 @@ During these years I have aquired a toolset of computational and digital methods
 
 
 COMPUTATIONAL
-
-	
 - R (3 years)			
 - Python (2 year)
 - Google Maps API.
@@ -20,7 +18,7 @@ COMPUTATIONAL
 - Bash/shell
 - SQL
 - Git
-- Web management(typo3, wordpress, jekyll, octopress)
+- Web management (typo3, wordpress, jekyll, octopress)
 - Amazon AWS (3 years
 
 DATA VISUALIZATION	
@@ -31,29 +29,22 @@ DATA VISUALIZATION
 - Sigma.js
 
 RESEARCH		
-- Social Network Analysis (Gephi and iGraph, Sigma.js)  
-- Content and Sentiment analysis (quanteda)
+- Social Network Analysis (Gephi, iGraph, Sigma.js)  
+- Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
 
 
-
-
-
-| Header1 | Header2 | Header3 |
+Aditional Training
+======
 |:--------|:-------:|--------:|
-| Internet Institute Summer School   | Oxford University   | July 2016   |
-| Internet related issues    cell5    cell6   |
+| Content and Sentiment analysis of Twitter with iSA   | U. of Milan | 
+| Big data management, network analysis & text data   | UPF Online  | 
+| Data Scientist with R  | Datacamp | 
 |-----------------------------|
-| Quantitative Methods   | European University Institute   | September 2014 - June 2015   |
-| Statistics   cell5    cell6   |
+| Data Analysis with R  | Datacamp  | 
+| Latent Semantic Analysis with R   | IC2S2  |
+| Topic Modeling with Python   | IC2S2  | 
+| Network Analysis with iGraph   | U. Penn  | 
+|-----------------------------|
+| OII Internet Institute Summmer School   | Oxford University   | 
+| Quantitative Methods and Statistics   | European University Institute   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
-
-
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
