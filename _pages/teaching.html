@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+<!-- [...] -->
+<div id="sigma-container"></div>
+<script src="sigma.js"></script>
+<script src="sigma.js/plugins/sigma.parsers.gexf.js"></script>
+<script>
+  sigma.parsers.gexf(
+    'sigma.js/plugins/sigma.parsers.gexf/les-miserables.gexf',
+    { // Here is the ID of the DOM element that
+      // will contain the graph:
+      container: 'sigma-container'
+    },
+    function(s) {
+      // This function will be executed when the
+      // graph is displayed, with "s" the related
+      // sigma instance.
+    }
+  );
+</script>
+<!-- [...] -->
