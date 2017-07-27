@@ -36,4 +36,4 @@ Research Interests
     
 
 |-----|-----|-----|------|-----|
-|![/images/epsa.png](http://www.epsanet.org)  | ![image-right](/images/aoir.png) |![image-right](/images/ecrea.jpg) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
+|![http://www.epsanet.org](/images/aoir.png)  | ![image-right](/images/aoir.png) |![image-right](/images/ecrea.jpg) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
