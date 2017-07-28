@@ -13,21 +13,21 @@ Training
 
 
 
-| Course | Place |
+| Course | Place | Date |
 |:--------|:-------:|
-| Content and Sentiment analysis of Twitter with iSA   | U. of Milan   |
-| Big data management, network analysis & text data   | UPF Online   |
+| Content and Sentiment analysis of Twitter with iSA   | U. of Milan   |Set-Dec 17   |
+| Big data management, network analysis & text data   | UPF Online   |Sep. 17   |
 |-----------------------------|
-| Data Scientist with R   | Datacamp   |
-| Data Analysis with R   | Datacamp   |
+| Data Scientist with R   | Datacamp   |August 17  |
+| Data Analysis with R   | Datacamp   |August 17  |
 |-----------------------------|
-| Latent Semantic Analysis with R    | Ic2s2   |
-| Topic Modeling with Python    | Ic2s2  |
+| Latent Semantic Analysis with R    | Ic2s2   |July 17   |
+| Topic Modeling with Python    | Ic2s2  |July 17  |
 |-----------------------------|
-| Network Analysis with iGraph   | U. Penn    |
-| OII Internet Institute Summmer School  | Oxford U.  |
+| Network Analysis with iGraph   | U. Penn    |Jan-June 17   |
+| OII Internet Institute Summmer School  | Oxford U.  |June 16  |
 |=============================|
-| Quantitative Methods and Statistics   | EUI   |
+| Quantitative Methods and Statistics   | EUI   |Sep-Dec 15   |
 
 
 Skills
@@ -39,7 +39,6 @@ COMPUTATIONAL
 - Google Maps API
 - Twitter Capture Analysis Toolkit (TCAT)
 - Twitter API(s)
-- Ubuntu
 - Bash/shell
 - SQL
 - Git
@@ -54,7 +53,7 @@ DATA VISUALIZATION
 - Sigma.js
 
 RESEARCH AND DATA ANALYSIS		
-- Social Network Analysis (Gephi, iGraph, Sigma.js)  
+- Social Network Analysis (Gephi, iGraph)  
 - Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
 
 
