@@ -7,19 +7,23 @@ author_profile: true
 <!DOCTYPE html>
 <html>
 <head>
-<style type="text/css">
-  #container {
-    max-width: 400px;
-    height: 400px;
-    margin: auto;
+	<tittle>Example les miserables</tittle>
+	<style type="text/css">
+	body {
+		margin: 0;
+	}
+  	#container {
+    	max-width: 400px;
+    	height: 400px;
+  	  	margin: auto;
   }
-</style>
+	</style>
 </head>
 <body>
-<div id="sigma-container"></div>
-<script src="/sigma.js/build/sigma.min.js"></script>
-<script src="/sigma.js/build/plugins/sigma.parsers.gexf/sigma.parsers.gexf.min.js"></script>
-<script>
+	<div id="sigma-container"></div>
+	<script src="/sigma.js/build/sigma.min.js"></script>
+	<script src="/sigma.js/build/plugins/sigma.parsers.gexf/sigma.parsers.gexf.min.js"></script>
+	<script>
   sigma.classes.graph.addMethod('neighbors', function(nodeId) {
     var k,
         neighbors = {},
@@ -78,6 +82,6 @@ author_profile: true
       });
     }
   );
-</script>
+	</script>
 </body>
 </html>
