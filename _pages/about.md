@@ -31,7 +31,13 @@ Research Interests
 - Social media and politics.
 - Computational methods, network analysis, content & sentiment analysis, big data.
 - Digital methods: Twitter data, issue mapping, social media analytics.
- 
+
+Knowledge
+======
+- European Union.
+- European Communication.
+- Digital Communications.
+- Public Affairs.
   
     
 
