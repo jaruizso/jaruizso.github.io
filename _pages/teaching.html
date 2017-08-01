@@ -13,7 +13,7 @@ author_profile: true
     body {
       margin: 0;
     }
-    #container {
+    #sigma-container {
       position: absolute;
       width: 100%;
       height: 100%;
@@ -21,14 +21,14 @@ author_profile: true
   </style>
 </head>
 <body>
-  <div id="container"></div>
+  <div id="sigma-container"></div>
   <script src="/sigma.js/build/sigma.min.js"></script>
   <script src="/sigma.js/build/plugins/sigma.parsers.gexf.min.js"></script>
   <script>
   	sigma.parsers.gexf (
   	"/sigma.js/build/plugins/miserables2.gexf",
   	{
-  		container: "container"
+  		container: "sigma-container"
   	},
   	functions(s) {
   	}
