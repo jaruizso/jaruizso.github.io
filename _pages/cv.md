@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Donwload the CV **[here](/files/CV_Javier_Sept17.pdf)**
+Download the CV [here](/files/CV_Javier_Sept17.pdf){: .btn .btn--success}
 {: .notice--success}
 
 
