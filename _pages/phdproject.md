@@ -40,6 +40,8 @@ Data from March 2016 to today collected by the [Twitter Capture Analysis](https:
 
 ### Paper 1: a Networked Public Sphere study
 
+![image-right](/images/graph.png){: .align-left}
+
 This article is an explorative approach to Twitter networks of European topics, named as European Political Twittersphere. The purpose of this article is to discern the main characteristics of these networks by using Social Network Analysis and the theoretical framework of Benkler's Networked Public Sphere theory.
 The paper shows empirical evidence of the normative concept of Networked Public Spheres, where individual users play an important role filtering and transmitting information. A role that until now was dominated by big news corporations and political institutions.
 {: .text-justify}
