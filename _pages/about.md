@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![image-center](/images/books.jpg){: .align-center}
 
 I am researcher and Ph.D. student at the Department of Political and Social Sciences of the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/). 
 {: .text-justify}
