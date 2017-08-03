@@ -9,6 +9,8 @@ author_profile: true
 _The mapping of the European Political Twittersphere and its significance for the European Public Sphere_
 {: .text-center}
 
+![image-center](/images/head.jpg){: .align-center}
+
 ### Intro
 
 Scholars have researched the emergence of a European public sphere (EPS) where citizens of Europe are able to participate in transnational conversations. The argument of my Ph.D. project is that the Internet seems to hold much potential in contributing to the emerging of an EPS. From a participatory perspective, it might help in the democratisation of European discussions, as the international audiences now can avoid the political and cultural filters of the national media when engaging in online debates.
@@ -48,7 +50,7 @@ The paper shows empirical evidence of the normative concept of Networked Public 
 
 The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location, framed aroun the theory of the European Public Sphere. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
 The results show that there is certain degree of transnational European Public Sphere in these topics. However they are still small compared to discussion about the topics made nationally.
-{: .text-justify}
+{: .text-left}
 
 ### Paper 3: a content and sentiment analysis of European topics
 
