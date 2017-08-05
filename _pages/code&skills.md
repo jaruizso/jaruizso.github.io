@@ -50,7 +50,9 @@ DATA VISUALIZATION
 - ggplot2
 - Shiny
 - Plotly
+- Google Charts
 - Sigma.js
+- D3
 
 RESEARCH AND DATA ANALYSIS		
 - Social Network Analysis (Gephi, iGraph)  
