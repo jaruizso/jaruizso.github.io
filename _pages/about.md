@@ -37,9 +37,7 @@ Knowledge
 - European Union.
 - European Communication.
 - Digital Communications.
-- Public Affairs.
-  
- [![title](picture.png)](http://link.com/)   
+- Public Affairs. 
 
 |-----|-----|-----|------|-----|
-|[![epsa](/images/epsa.png)](http://www.epsa.net/)| ![image-right](/images/aoir.png) |![image-right](/images/ecrea.jpg) |![image-right](/images/ecpr.png) |![image-left](/images/ica.png) |
+|[![epsa](/images/epsa.png)](http://www.epsa.org/)|[![aoir](/images/aoir.png)](http://www.aoir.org/)|[![ecrea](/images/ecrea.jpg)](http://www.ecrea.eu/)|[![ecpr](/images/ecpr.png)](http://www.ecpr.eu/)|[![ica](/images/ica.png)](http://www.icahdq.org/)|
