@@ -53,6 +53,7 @@ DATA VISUALIZATION
 - Google Charts
 - Sigma.js
 - D3
+- Infogram
 
 RESEARCH AND DATA ANALYSIS		
 - Social Network Analysis (Gephi, iGraph)  
