@@ -50,8 +50,7 @@ var addressPoints = [
     12.5700724
   ], 
   [
-    "Istanbul, Turkey",
-    "Accession of Turkey to the EU: Expectations and Realities", 
+    "Istanbul, Turkey. Accession of Turkey to the EU: Expectations and Realities", 
     41.0096334, 
     28.9651646
   ], 
