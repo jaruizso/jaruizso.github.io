@@ -1,5 +1,5 @@
 ---
-title: "Conference 14th Annual UACES Forum Conference"
+title: "14th Annual UACES Forum Conference"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/uaces1
