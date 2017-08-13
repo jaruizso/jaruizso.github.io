@@ -66,13 +66,13 @@ var addressPoints = [
   ],
   [
     "Milan, Italy. November 2016. Workshop at Public Opinion and Media Lab. University of Milan.", 
-    45.3667971, 
-    9.4904984
+    45.465428, 
+    9.199076
   ],
     [
     "Berlin, Germany. June 2013. European Dialogue on Internet Governance. EuroDIG.", 
-    52.8170365, 
-    13.6888599
+    52.526614, 
+    13.385468
   ], 
     [
     "Stockholm, Sweden. June 2012. European Dialogue on Internet Governance. EuroDIG.", 
