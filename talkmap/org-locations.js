@@ -1,72 +1,82 @@
 var addressPoints = [
   [
-    "Valencia, Spain", 
+    "Valencia, Spain. November 2016. Congress of online political communication. Mediaflows", 
     39.4699014, 
     -0.3759513
   ], 
   [
-    "Budapest, Hungary", 
+    "Budapest, Hungary. December 2012. The EU and the Politicization of Europe. Euroacademia", 
     47.4983815, 
     19.0404707
   ], 
   [
-    "Lisbon, Portugal", 
+    "Lisbon, Portugal. June 2014. European Dialogue on Internet Governance. EuroDIG", 
     38.7077926, 
     -9.1365061
   ], 
   [
-    "Tampere, Finland", 
+    "Tampere, Finland. August 2017. NordMedia 2017 bi-annual Conference. Nordicom", 
     61.4980214, 
     23.7603118
   ], 
   [
-    "Berlin, Germany", 
+    "Berlin, Germany. September 2012. Europe’s common future. Böll Foundation", 
     52.5170365, 
     13.3888599
   ], 
   [
-    "Milan, Italy. June 2017. EPSA 7th Conference European Political Sciences", 
+    "Milan, Italy. June 2017. 7th Conference European Political Sciences. EPSA", 
     45.4667971, 
     9.1904984
   ], 
   [
-    "Vilnius, Lithuania. December 2013. Closing Conference of the Lithuanian Presidency of the Council of the EU", 
+    "Vilnius, Lithuania. December 2013. Closing Conference of the Lithuanian Presidency. Council of the EU", 
     54.6870458, 
     25.2829111
   ], 
   [
-    "Loughborough, UK. September 2013. 14th Annual UACES Forum Conference", 
+    "Loughborough, UK. September 2013. 14th Annual UACES Forum Conference. UACES", 
     52.7723859, 
     -1.2077985
   ], 
   [
-    "Cologne, Germany. July 2017. IC2S2 3rd Computational Social Science Conference", 
+    "Cologne, Germany. July 2017. 3rd Computational Social Science Conference. IC2S2", 
     50.938361, 
     6.959974
   ], 
   [
-    "Copenhagen, Denmark. June 2012. Conference United We Stand", 
+    "Copenhagen, Denmark. June 2012. Conference United We Stand. Copenhagen Business School CBSbogazigy", 
     55.6867243, 
     12.5700724
   ], 
   [
-    "Istanbul, Turkey. May 2011. Accession of Turkey to the EU: Expectations and Realities", 
+    "Istanbul, Turkey. May 2011. Accession of Turkey to the EU: Expectations and Realities. Bogazici University", 
     41.0096334, 
     28.9651646
   ], 
   [
-    "Malm\u00f6, Sweden. April 2012. International Seminar Our Europe 2021", 
+    "Malm\u00f6, Sweden. April 2012. International Seminar Our Europe 2021. Europaforum", 
     55.6052931, 
     13.0001566
   ], 
   [
-    "London, UK", 
+    "London, UK. June 2016. PhD Symposium Media and Communications. London Sshool of Economics", 
     51.5073219, 
     -0.1276474
   ],
   [
-    "London, UK. Try2", 
-    51.5173219, 
-    -0.1376474
-  ]
+    "Milan, Italy. November 2016. Workshop at Public Opinion and Media Lab. University of Milan", 
+    46.4667971, 
+    10.1904984
+  ],
+    [
+    "Berlin, Germany. June 2013. European Dialogue on Internet Governance. EuroDIG", 
+    51.5170365, 
+    13.3888599
+  ], 
+    [
+    "Stockholm, Sweden. June 2012. European Dialogue on Internet Governance. EuroDIG", 
+    59.7077926, 
+    18.3888599
+  ],  
 ];
