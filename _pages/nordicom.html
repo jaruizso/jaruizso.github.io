@@ -1,0 +1,93 @@
+---
+layout: archive
+title: "Nordicom Network"
+permalink: /nordicom/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic sigma.js example2</title>
+    <style type="text/css">
+        body {
+          margin: 0;
+        }
+        #container {
+          position: absolute;
+          width: 50%;
+          height: 50%;
+          border: 5px solid #B22222;
+          border-radius: 10px;
+          margin-top: 15px;
+          margin-bottom: 15px
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script src="/sigma/build/sigma.min.js"></script>
+    <script src="/sigma/build/plugins/sigma.parsers.gexf.min.js"></script>
+    <script>
+  sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+    var k,
+        neighbors = {},
+        index = this.allNeighborsIndex[nodeId] || {};
+
+    for (k in index)
+      neighbors[k] = this.nodesIndex[k];
+
+    return neighbors;
+  });
+
+  sigma.parsers.gexf(
+    '/sigma/build/plugins/facebook2.gexf',
+    {
+      container: 'container'
+    },
+    function(s) {
+      s.graph.nodes().forEach(function(n) {
+        n.originalColor = n.color;
+      });
+      s.graph.edges().forEach(function(e) {
+        e.originalColor = e.color;
+      });
+
+      s.bind('clickNode', function(e) {
+        var nodeId = e.data.node.id,
+            toKeep = s.graph.neighbors(nodeId);
+        toKeep[nodeId] = e.data.node;
+
+        s.graph.nodes().forEach(function(n) {
+          if (toKeep[n.id])
+            n.color = n.originalColor;
+          else
+            n.color = '#eee';
+        });
+
+        s.graph.edges().forEach(function(e) {
+          if (toKeep[e.source] && toKeep[e.target])
+            e.color = e.originalColor;
+          else
+            e.color = '#eee';
+        });
+
+        s.refresh();
+      });
+
+      s.bind('clickStage', function(e) {
+        s.graph.nodes().forEach(function(n) {
+          n.color = n.originalColor;
+        });
+
+        s.graph.edges().forEach(function(e) {
+          e.color = e.originalColor;
+        });
+
+        s.refresh();
+      });
+    }
+  );
+    </script>
+</body>
+</html>
