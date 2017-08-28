@@ -25,8 +25,9 @@ Training
 | Topic Modeling with Python    | Ic2s2  |July 17  |
 |-----------------------------|
 | Network Analysis with iGraph   | U. Penn    |Jan-June 17   |
-| OII Internet Institute Summmer School  | Oxford U.  |June 16  |
+| Social Media Analytics  | QUT  |August 16  |
 |=============================|
+| OII Internet Institute Summmer School  | Oxford U.  |June 16  |
 | Quantitative Methods and Statistics   | EUI   |Sep-Dec 15   |
 
 
