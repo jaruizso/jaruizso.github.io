@@ -69,10 +69,15 @@ var addressPoints = [
     45.465428, 
     9.199076
   ],
-    [
+  [
     "Berlin, Germany. June 2013. European Dialogue on Internet Governance. EuroDIG.", 
     52.526614, 
     13.385468
+  ],
+  [
+    "Oslo, Norway. September 2017. ECPR General Conference.", 
+    59.5139, 
+    10.7522  
   ], 
     [
     "Stockholm, Sweden. June 2012. European Dialogue on Internet Governance. EuroDIG.", 
