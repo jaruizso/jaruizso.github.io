@@ -83,5 +83,15 @@ var addressPoints = [
     "Stockholm, Sweden. June 2012. European Dialogue on Internet Governance. EuroDIG.", 
     59.329323, 
     18.068581
-  ],  
+  ],
+    [
+    "Tartu, Estonia. October 2017. Association of Internet Researchers. AOIR.", 
+    58.377, 
+    26.72900 
+  ],
+    [
+    "Stockholm, Sweden. November 2017. ECREA Symposium Digital Democracy in the age of Big Data. Södertorns Högskola", 
+    59.220452, 
+    17.943596 
+  ],   
 ];
