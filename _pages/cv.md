@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download the CV [here](/files/CV_Javier_Ruiz-Soler.pdf){: .btn .btn--success}
+Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 {: .notice--success}
 
 
