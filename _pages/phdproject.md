@@ -13,10 +13,10 @@ _The mapping of the European Political Twittersphere and its significance for th
 
 ### Intro
 
-Scholars have researched the emergence of a European public sphere (EPS) where citizens of Europe are able to participate in transnational conversations. The argument of my Ph.D. project is that the Internet seems to hold much potential in contributing to the emerging of an EPS. From a participatory perspective, it might help in the democratisation of European discussions, as the international audiences now can avoid the political and cultural filters of the national media when engaging in online debates.
+Scholars have researched the emergence of a European public sphere (EPS) where citizens of Europe are able to participate in transnational conversations. The argument of my Ph.D. project is that the Internet seems to hold much potential in contributing to the emerging of an EPS. From a participatory perspective, it might help in the democratization of European discussions, as the international audiences now can avoid the political and cultural filters of the national media when engaging in online debates.
 {: .text-justify}
 
-The Ph.D. project, using a computational social science aprroach, is divided in three academic papers. Each one of them with different angle but using the same data. For the first paper, network analysis of the interactions of Twitter users under the hashtags focusing on the actor level: what are the most important nodes, which ones have importance transmitting information, etc. The second paper uses network analyis as well, however I focus on the whole network instead of actor level. In that sense the goal is to measure the level of transnational interactions the users createing using the hashtags. The third paper uses content and sentiment analysis with quanteda and iSA R packages. The purpose is to know that and how and what users say about the topics.
+The Ph.D. project, using a computational social science approach, is divided in three academic papers. Each one of them with different angle but using the same data. For the first paper, network analysis of the interactions of Twitter users under the hashtags focusing on the actor level: what are the most important nodes, which ones have importance transmitting information, etc. The second paper uses network analysis as well, however I focus on the whole network instead of actor level. In that sense the goal is to measure the level of transnational interactions the users create using the hashtags. The third paper uses content and sentiment analysis with quanteda and iSA R packages. The purpose is to know that and how and what users say about the topics.
 {: .text-justify}
 
 
@@ -50,11 +50,11 @@ The paper shows empirical evidence of the normative concept of Networked Public 
 
 ![image-right](/images/europeannetwork.png){: .align-right}
 
-The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location, framed aroun the theory of the European Public Sphere. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
+The article explores the interactions formed around Twitter issue publics of European relevance with the geographic location, framed around the theory of the European Public Sphere. The geolocation of the tweets have been collected using geocoding strategies for Twitter.
 The results show that there is certain degree of transnational European Public Sphere in these topics. However they are still small compared to discussion about the topics made nationally.
 {: .text-left}
 
 ### Paper 3: a content and sentiment analysis of European topics
 
-The third article looks at the content of the networks. Once we have the characteristics of the networks, and once we know what kind of -transnational- interactions users have, its time to look how and what users talk about the topics mapped. The thirs article is a content & sentiment analyis. More specifically I look at the patterns that arise when individuals speak and interact about issues of European relevance.
+The third article looks at the content of the networks. Once we have the characteristics of the networks, and once we know what kind of -transnational- interactions users have, it is time to look how and what users talk about the topics mapped. The third article is a content & sentiment analysis. More specifically I look at the patterns that arise when individuals speak and interact about issues of European relevance.
 {: .text-justify}
