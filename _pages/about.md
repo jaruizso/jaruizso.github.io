@@ -41,4 +41,4 @@ Knowledge
 - Public Affairs. 
 
 |-----|-----|-----|------|-----|
-|[![epsa](/images/epsa.png)](http://www.epsa.org/)|[![aoir](/images/aoir.png)](http://www.aoir.org/)|[![ecrea](/images/ecrea.jpg)](http://www.ecrea.eu/)|[![ecpr](/images/ecpr.png)](http://www.ecpr.eu/)|[![ica](/images/ica.png)](http://www.icahdq.org/)|
+|[![epsa](/images/epsa.png)](http://www.epsa.org/)|[![aoir](/images/aoir.png)](http://www.aoir.org/)|[![ecrea](/images/ecrea.jpg)](http://www.ecrea.eu/)|[![ecpr](/images/ecpr.png)](http://www.ecpr.eu/)|[![ica](/images/ica.png)](http://www.icahdq.org/)|[![ica](/images/iu.png)](http://www.ic2s2.org/)|
