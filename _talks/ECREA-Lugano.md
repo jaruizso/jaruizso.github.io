@@ -1,9 +1,9 @@
 ---
-title: "ECREA Bi-anual General Conference"
+title: "ECREA bi-anual General Conference"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/nordmedia
-venue: "European Consortium for Political Research"
+permalink: /talks/ecpr18
+venue: "European Communication Research Association"
 date: 2018-11-03
 location: "Lugano, Switzerland"
 ---

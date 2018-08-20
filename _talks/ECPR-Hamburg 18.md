@@ -2,7 +2,7 @@
 title: "ECPR General Conference"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/nordmedia
+permalink: /talks/ecpr18
 venue: "European Consortium for Political Research"
 date: 2018-08-25
 location: "Hamburg, Germany"

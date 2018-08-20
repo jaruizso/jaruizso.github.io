@@ -103,5 +103,15 @@ var addressPoints = [
     "Lugano, Switzerland. November 2018. ECREA Bi-anual General Conference", 
     46.0036, 
     8.9510
-  ],    
+  ],
+    [
+    "Sundsvall, Sweden. April 2018. Seminar at Mid Sweden University", 
+    62.39081, 
+    17.30692
+  ],
+    [
+    "Florence, Italy. February 2018. Seminar at Scuola Normale Superiore", 
+    43.768700, 
+    11.256930
+  ],          
 ];
