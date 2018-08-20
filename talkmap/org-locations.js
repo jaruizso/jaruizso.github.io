@@ -93,5 +93,15 @@ var addressPoints = [
     "Stockholm, Sweden. November 2017. ECREA Symposium Digital Democracy in the age of Big Data. Södertorns Högskola", 
     59.220452, 
     17.943596 
-  ],   
+  ],
+    [
+    "Hamburg, Germany. August 2018. ECPR General Conference", 
+    53.551086, 
+    9.9936
+  ], 
+    [
+    "Lugano, Switzerland. November 2018. ECREA Bi-anual General Conference", 
+    46.0036, 
+    8.9510
+  ],    
 ];

@@ -36,7 +36,8 @@ Research Interests
 Knowledge
 ======
 - European Union.
-- European Communication.
+- European Communications.
+- European Identity
 - Digital Communications.
 - Public Affairs. 
 

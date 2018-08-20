@@ -15,6 +15,8 @@ Training
 
 | Course | Place | Date |
 |:--------|:-------:|
+| 6th ICA International Summer School  | U. of Milan   |Juy 18  |
+|-----------------------------|
 | Content and Sentiment analysis of Twitter with iSA   | U. of Milan   |Set-Dec 17   |
 | Big data management, network analysis & text data   | UPF Online   |Sep. 17   |
 |-----------------------------|
@@ -35,7 +37,7 @@ Skills
 ======
 
 COMPUTATIONAL
-- R (3 years)			
+- R (4 years)			
 - Python (2 year)
 - Google Maps API
 - Twitter Capture Analysis Toolkit (TCAT)
@@ -52,13 +54,11 @@ DATA VISUALIZATION
 - Shiny
 - Plotly
 - Google Charts
-- Sigma.js
-- D3
 - Infogram
 
 RESEARCH AND DATA ANALYSIS		
 - Social Network Analysis (Gephi, iGraph)  
-- Content and Sentiment analysis with quanteda and iSA (Integrated Sentiment Analysis)
+- Content and Sentiment analysis with quanteda and iSA
 
 
 

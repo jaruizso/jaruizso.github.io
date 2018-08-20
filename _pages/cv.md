@@ -53,11 +53,12 @@ Work experience
    
   
 Service and leadership
-======
-* Reviewer ICA Political Communication Section for Prague 2018
+====== 
+* Reviewer International Journal of Communication USC Annenberg.
+* Reviewer ICA Political Communication Section for Prague 2018.
 * Data for Democracy Data Analyst.
 * Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
 * Discusant Political Communication panel at the NordMedia Conference 2017.
-* 2018 Organizer Workshop “Social Media and Politics” at the EUI. Guest: Anamaria Dutceac (Lund University) and Michael Bossetta (Copenhaguen University).
+* 2018 Organizer Workshop “Social Media and Politics” at the EUI. Guest Professors: Anamaria Dutceac (Lund University) and Michael Bossetta (Copenhaguen University).
 * 2016 Organizer Workshop “Python for the Social Sciences” at the EUI. Guest Professor: Jonathan Bright, Oxford University.
 * 2015 Organizer Workshop “Social Scientific Network Analysis” at the EUI. Guest Professor: Carl Nordlund, CEU.

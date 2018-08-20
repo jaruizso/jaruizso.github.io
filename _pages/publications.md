@@ -11,14 +11,14 @@ If you have questions or would like to get in touch regarding my research, do no
 Selected Publications
 ======
 
-[7] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a Networked Public Sphere study”, **[Work In Progress]**
+[7] Ruiz-Soler, Javier (2019), “Commenting politics throught Twitter. Are European politics European?”, **[Work In Progress]**
 
-[6] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Work In Progress]**
+[6] Ruiz-Soler, Javier (2019), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Work In Progress]**
 
-[5] Ruiz-Soler, Javier (2018), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a content and sentiment analysis of European topics”, **[Work In Progress]**
+[5] Ruiz-Soler, Javier (2018), “The last will be the first. A study of European Issue Publics on Twitter”, , special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, eds. Elena Pavan and Alice Mattoni, Partecipazione e conflitto 11(2) **[FORTHCOMING]**
  
 
-[4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).**[available soon]**
+[4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
 [3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data.”, Revista Dígitos, 3, ISSN: 2444-0132.
 
@@ -29,6 +29,8 @@ Selected Publications
 
 Press
 ======
+
+- Ruiz-Soler, Javier and Seóne Pérez, F. (2018). “Are bots dreaming in winning elections?” Magazine Association of Political Communication (ACOP), 23, pp. 11-15, ISSN: 2445- 3951. (In Spanish)
 
 - Ruiz-Soler, Javier (2016), Reactions to Juncker’s State of the Union speech show the difficulties in creating a European public sphere online. LSE European Politics and Policy (EUROPP) Blog (22 Sep 2016). Blog Entry.” **<ins>[LINK](http://blogs.lse.ac.uk/europpblog/2016/09/22/soteu-twitter-european-public-sphere/)</ins>**
 
