@@ -37,7 +37,7 @@ Knowledge
 ======
 - European Union.
 - European Communications.
-- European Identity
+- European Identity.
 - Digital Communications.
 - Public Affairs. 
 
