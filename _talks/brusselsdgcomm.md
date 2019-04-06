@@ -1,5 +1,5 @@
 ---
-title: "Communication Online in Europe"
+title: "European Commission DG COMM"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/brussels
@@ -8,4 +8,4 @@ date: 2019-03-22
 location: "Brussels, Belgium"
 ---
 
-Guest Lecture
+Guest Lecture: Communications online in Europe

@@ -1,5 +1,5 @@
 ---
-title: "The Transnational Twittersphere"
+title: "Transformations of the Public Sphere"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/hildesheim
@@ -8,4 +8,4 @@ date: 2019-05-25
 location: "hildesheim, Sweden"
 ---
 
-Conference Paper
+Conference Paper: The Transnational Public Sphere online.
