@@ -14,9 +14,10 @@ Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 
 Education
 ======
-* Ph.D in Political and Social Sciences, European University Institute, 2018 (expected).
+* Ph.D in Political and Social Sciences, European University Institute, 2019.
 	- Visiting Scholar Dimenet research group, University of Pennsylvania
 	- Visiting Scholar Pomlab, University of Milan
+* M.S. in Research, European University Institute, 2015.
 * M.A. in European Studies, Lund University, 2012.
 	- Erasmus Internship JEF Europe, Brussels
 * B.S. in Contemporary History, University of Valencia, 2009.
@@ -27,6 +28,7 @@ Education
    
 Work experience
 ======
+
 * POLCON Project Coder.
   * Coding of protest events for content analysis
   * Supervisor: Hanspeter Kriesi
@@ -56,7 +58,6 @@ Service and leadership
 ====== 
 * Reviewer International Journal of Communication USC Annenberg.
 * Reviewer ICA Political Communication Section for Prague 2018.
-* Data for Democracy Data Analyst.
 * Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
 * Discusant Political Communication panel at the NordMedia Conference 2017.
 * 2018 Organizer Workshop “Social Media and Politics” at the EUI. Guest Professors: Anamaria Dutceac (Lund University) and Michael Bossetta (Copenhaguen University).

@@ -15,7 +15,7 @@ Selected Publications
 
 [6] Ruiz-Soler, Javier (2019), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Work In Progress]**
 
-[5] Ruiz-Soler, Javier (2018), “The last will be the first. A study of European Issue Publics on Twitter”, , special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, eds. Elena Pavan and Alice Mattoni, Partecipazione e conflitto 11(2) **[FORTHCOMING]**
+[5] Ruiz-Soler, Javier (2018), ‘"he last will be the first. A study of European Issue Publics on Twitter", in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447
  
 
 [4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
@@ -29,6 +29,8 @@ Selected Publications
 
 Press
 ======
+
+- Ruiz-Soler, Javier (2019). "Are social media platforms good for democracy?", Magazine Association of Political Communication (ACOP), 34: 32-33, ISSN: 2340-9576. (In Spanish)
 
 - Ruiz-Soler, Javier and Seóne Pérez, F. (2018). “Are bots dreaming in winning elections?” Magazine Association of Political Communication (ACOP), 23, pp. 11-15, ISSN: 2445- 3951. (In Spanish)
 

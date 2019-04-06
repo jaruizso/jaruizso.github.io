@@ -113,5 +113,15 @@ var addressPoints = [
     "Florence, Italy. February 2018. Seminar at Scuola Normale Superiore", 
     43.768700, 
     11.256930
+  ],
+    [
+    "Brussels, Belgium. March 2019. Seminar at European Commission DG COMM", 
+    50.8503, 
+    4.351
+  ],  ],
+    [
+    "Hildesheim, Germany. April 2019. Conference Transformation of the Public Sphere", 
+    51.1509, 
+    9.951
   ],          
 ];
