@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am researcher at the [Digital Democracies Lab](https://www.sfu.ca/digital-democracies.html) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun] (https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focuses on mis- and dis- information.
+I am researcher at the [Digital Democracies Lab](https://www.sfu.ca/digital-democracies.html) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focuses on mis- and dis- information.
 {: .text-justify}
-I have a Ph.D. in Political Communication from the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/).
-{: .text-justify}
-My Ph.D. dissertation explored and analyzed the interactions' networks of users under Twitter hashtags of European relevance, as well as its content. The project strived to complement the literature of the European Public Sphere from an innovative computational social sciences approach.
+I have a Ph.D. in Political Communication from the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/). My Ph.D. dissertation explored and analyzed the interactions' networks of users under Twitter hashtags of European relevance, as well as its content. The project strived to complement the literature of the European Public Sphere from an innovative computational social sciences approach.
 {: .text-justify}
 I have been a Visiting Scholar at the Digital Media, Networks and Political Communication [(Dimenet)](http://http://dimenet.asc.upenn.edu) research group at the Annenberg School for Communication of the University of Pennsylvania, with Professor [Sandra González-Bailón](https://www.asc.upenn.edu/node/648). At the Dimenet I have been working with network science, data mining and political communication for my Ph.D. project.
 {: .text-justify}

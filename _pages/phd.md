@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "PhD Dissertation"
+title: "PhD"
 permalink: /phd/
 author_profile: true
 ---
 **Twitter as the new Coffee House?**
 {: .text-center} 
-_ The Contribution of the European Political Twittersphere to the European Public Sphere and European Demos._
+_The Contribution of the European Political Twittersphere to the European Public Sphere and European Demos._
 {: .text-center}
 
 ![image-center](/images/head.jpg){: .align-center}
