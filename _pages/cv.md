@@ -20,7 +20,7 @@ Education
 * M.S. in Research, European University Institute, 2015.
 * M.A. in European Studies, Lund University, 2012.
 	- Erasmus Internship JEF Europe, Brussels
-* B.S. in Contemporary History, University of Valencia, 2009.
+* B.A. in Contemporary History, University of Valencia, 2009.
 	- Erasmus exchange Södertorns Högskola, Sweden
  
   
@@ -28,6 +28,16 @@ Education
    
 Work experience
 ======
+
+* Researcher Digital Democracy Lab.
+  * Mis- and Dis- information
+  * Supervisor: Wendy Chun
+
+
+* Collaborator OpenEUdebate.eu.
+  * data collections of Social Media Data
+  * Supervisor: Luis Bouza
+
 
 * POLCON Project Coder.
   * Coding of protest events for content analysis
@@ -56,8 +66,10 @@ Work experience
   
 Service and leadership
 ====== 
+* Consultant on mis/dis- information on social media in the EU elections 2019
+* Reviewer The International Journal of Press/Politics.
 * Reviewer International Journal of Communication USC Annenberg.
-* Reviewer ICA Political Communication Section for Prague 2018.
+* Reviewer ICA Political Communication Section.
 * Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
 * Discusant Political Communication panel at the NordMedia Conference 2017.
 * 2018 Organizer Workshop “Social Media and Politics” at the EUI. Guest Professors: Anamaria Dutceac (Lund University) and Michael Bossetta (Copenhaguen University).
