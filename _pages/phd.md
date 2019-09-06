@@ -23,4 +23,4 @@ The three articles capture three features of the European Political Twitterspher
 
 
 
-![image-center](/images/head.jpg){: .align-center}
+![image-center](/images/jury.jpg){: .align-center}
