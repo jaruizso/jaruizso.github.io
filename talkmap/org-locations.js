@@ -118,7 +118,7 @@ var addressPoints = [
     "Brussels, Belgium. March 2019. Seminar at European Commission DG COMM", 
     50.8503, 
     4.35100
-  ],  ],
+  ],
     [
     "Hildesheim, Germany. April 2019. Conference Transformation of the Public Sphere", 
     51.1509, 
