@@ -26,6 +26,7 @@ The three articles capture three features of the European Political Twitterspher
 ![image-center](/images/jury){: .align-center}
 
 PhD thesis dissertation defended on 12th June 2019, in Badia Fiesolana (EUI), Florence.
+
 Jury:
 * Prof. Luigi Curini, University of Milan.
 * Prof. Giovanni Sartor, European University Institute.
