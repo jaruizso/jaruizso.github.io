@@ -4,13 +4,16 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/       
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/       
     
   - title: "Code & Skills"
     url: /code&skills/
     
-  - title: "PhD Project"
-    url: /phd-project/    
-    
+  - title: "PhD Dissertation"
+    url: /phd/    
+      
   - title: "CV"
     url: /cv/

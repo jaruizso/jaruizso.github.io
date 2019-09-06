@@ -29,7 +29,7 @@ Education
 Work experience
 ======
 
-* Researcher Digital Democracy Lab.
+* Researcher Digital Democracies Lab.
   * Mis- and Dis- information
   * Supervisor: Wendy Chun
 

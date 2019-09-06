@@ -120,6 +120,11 @@ var addressPoints = [
     4.35100
   ],
     [
+    "Madrid, Spain. January 2019. OpenEUdebate.eu Opening Conference", 
+    40.4167, 
+    -3.703
+  ],
+    [
     "Hildesheim, Germany. April 2019. Conference Transformation of the Public Sphere", 
     51.1509, 
     9.95100
