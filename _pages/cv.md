@@ -15,8 +15,6 @@ Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 Education
 ======
 * Ph.D in Political and Social Sciences, European University Institute, 2019.
-	- Visiting Scholar Dimenet research group, University of Pennsylvania
-	- Visiting Scholar Pomlab, University of Milan
 * M.S. in Research, European University Institute, 2015.
 * M.A. in European Studies, Lund University, 2012.
 	- Erasmus Internship JEF Europe, Brussels
@@ -24,7 +22,13 @@ Education
 	- Erasmus exchange Södertorns Högskola, Sweden
  
   
-   
+ Visitings
+======  
+
+- Visiting Scholar Dimenet research group, University of Pennsylvania
+- Visiting Scholar Pomlab, University of Milan
+- Visiting Scholar Berkman Klein Center, Harvard University
+ 
    
 Work experience
 ======
@@ -54,11 +58,6 @@ Work experience
   * Project and event management
   * Press Management
  
-    
-* Researcher Stockholm University.
-  * Coder of data snippets from different international TV channels
-  * Supervisor: Alexa Robertson
- 
   
 * Co-editor bolgginportal.eu.
   * Curator of blogs, posts and the "Editors choice"  
@@ -66,7 +65,8 @@ Work experience
   
 Service and leadership
 ====== 
-* Consultant on mis/dis- information on social media in the EU elections 2019
+* Programme Advisory Committee for Canada’s Democracy Summit (Ryerson University).
+* Consultant on mis/dis- information on social media in the EU elections 2019 with Wahlbeobachtung Election-Watch EU.
 * Reviewer The International Journal of Press/Politics.
 * Reviewer International Journal of Communication USC Annenberg.
 * Reviewer ICA Political Communication Section.

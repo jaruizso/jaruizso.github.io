@@ -16,7 +16,8 @@ I have been a Visiting Scholar at the Digital Media, Networks and Political Comm
 {: .text-justify}
 I have also been Visiting Scholar at the Public Opinion & Media Lab [(Pomlab)](http://www.pomlab.unimi.it) and [Voices from the Blogs](https://www.voices-int.com/?language=en) of the University of Milan, with Professors [Mauro Barisione](http://users2.unimi.it/barisione/), [Luigi Curini](http://www.luigicurini.com) and [Andrea Ceron](https://andreaceron.com). At the Pomlab and Voices I worked with content and sentiment analysis for my Ph.D.
 {: .text-justify}
-
+I have also been invited as Visiting Scholar at the [(Berkman Klein Center for Internet & Society)](https://cyber.harvard.edu) 
+{: .text-justify}
 
 
 Before I entered the world of academia, I have been working as a communications consultant and event organizer for different projects and organizations in different countries of Europe. 

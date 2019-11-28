@@ -19,7 +19,7 @@ Selected Publications
 
 [4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
-[3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data.”, Revista Dígitos, 3, ISSN: 2444-0132.
+[3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, 3, ISSN: 2444-0132.
 
 [2] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
 
