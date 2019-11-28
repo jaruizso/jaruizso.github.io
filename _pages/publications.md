@@ -37,7 +37,8 @@ Book Reviews
 Press
 ======
 
-- - Ruiz-Soler, Javier (2019). "A look from Twitter to Von Der Leyen’s election", Agenda Pública El País, 19th July 2019: http://agendapublica.elpais.com/una-mirada-desde-twitter-de-la-eleccion-de-von-der-leyen/
+- Ruiz-Soler, Javier (2019). "A look from Twitter to Von Der Leyen’s election", Agenda Pública El País, 19th July 2019: http://agendapublica.elpais.com/una-mirada-desde-twitter-de-la-eleccion-de-von-der-leyen/
+
 - Ruiz-Soler, Javier (2019). "Are social media platforms good for democracy?", Magazine Association of Political Communication (ACOP), 34: 32-33, ISSN: 2340-9576. (In Spanish)
 
 - Ruiz-Soler, Javier and Seóne Pérez, F. (2018). “Are bots dreaming in winning elections?” Magazine Association of Political Communication (ACOP), 23, pp. 11-15, ISSN: 2445- 3951. (In Spanish)
