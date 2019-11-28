@@ -37,7 +37,7 @@ Book Reviews
 Press
 ======
 
-- Ruiz-Soler, Javier (2019). "A look from Twitter to Von Der Leyen’s election", Agenda Pública El País, 19th July 2019: http://agendapublica.elpais.com/una-mirada-desde-twitter-de-la-eleccion-de-von-der-leyen/
+- Ruiz-Soler, Javier (2019). "A look from Twitter to Von Der Leyen’s election", Agenda Pública El País. **<ins>[LINK](http://agendapublica.elpais.com/una-mirada-desde-twitter-de-la-eleccion-de-von-der-leyen/)</ins>** 
 
 - Ruiz-Soler, Javier (2019). "Are social media platforms good for democracy?", Magazine Association of Political Communication (ACOP), 34: 32-33, ISSN: 2340-9576. (In Spanish)
 
