@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am researcher at the [Digital Democracies Lab](https://www.sfu.ca/digital-democracies.html) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focuses on mis- and dis- information. I have been invited as Visiting Scholar at the [(Berkman Klein Center for Internet & Society)](https://cyber.harvard.edu).
+I am researcher at the [Digital Democracies Lab](https://www.sfu.ca/digital-democracies.html) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focuses on mis- and dis- information. I have been invited as Visiting Scholar at the [Berkman Klein Center for Internet & Society](https://cyber.harvard.edu) at Harvard University.
 {: .text-justify}
 I have a Ph.D. in Political Communication from the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/). My Ph.D. dissertation explored and analyzed the interactions' networks of users under Twitter hashtags of European relevance, as well as its content. The project strived to complement the literature of the European Public Sphere from an innovative computational social sciences approach.
 {: .text-justify}
