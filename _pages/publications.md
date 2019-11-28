@@ -11,21 +11,27 @@ If you have questions or would like to get in touch regarding my research, do no
 Selected Publications
 ======
 
-
 [7] Ruiz-Soler, Javier (2020), “European Twitter Networks: where are they? Towards a transnational European Public Sphere" **[Under Review]**
 
 [6] Ruiz-Soler, Javier (2019), “Commenting on Politicas Topics through Twitter. Is European politics European?”, Social Media + Society, 5(4).
 
-[5] Ruiz-Soler, Javier (2018), "The last will be the first. A study of European Issue Publics on Twitter", in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447
- 
+[5] Ruiz-Soler, Javier (2018), "The last will be the first. A study of European Issue Publics on Twitter", in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447.
 
 [4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
 [3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data.”, Revista Dígitos, 3, ISSN: 2444-0132.
 
-[2] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0
+[2] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
 
 [1] Ruiz-Soler, Javier (2012), "Who blogs what? A qualitative study on the role of the Euroblogosphere in a context of a European Public Sphere. Master Thesis. Lund University, Sweden.
+
+
+Book Reviews
+======
+
+- Ruiz-Soler, Javier (2018), [Review of the Book “Integration, Diversity and the Making of a European Public Sphere”, by Hakan Sicakkan (Ed.)] Mass Communication and Society 21 (2): 269-271. https://doi.org/10.1080/15205436.2017.1407586
+
+- Ruiz-Soler, Javier (2018), [Review of the Book “Decoding the Social World: Data Science and the unintended consequences of Communication”, by Sandra González-Bailón] International Journal of Media & Cultural Politics 14(2): 270-272. https://doi: 10.1386/macp.14.2.265_5.
 
 
 Press
