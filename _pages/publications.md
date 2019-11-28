@@ -12,9 +12,9 @@ Selected Publications
 ======
 
 
-[7] Ruiz-Soler, Javier (2020), “The mapping of the European Political Twittersphere and its significance for the European Public Sphere: a transnational EPS”, **[Under Review]**
+[7] Ruiz-Soler, Javier (2020), “European Twitter Networks: where are they? Towards a transnational European Public Sphere" **[Under Review]**
 
-[6] Ruiz-Soler, Javier (2019), “Commenting politics through Twitter. Are European politics European?”, **[Accepted Social Media & Society Journal]**
+[6] Ruiz-Soler, Javier (2019), “Commenting on Politicas Topics through Twitter. Is European politics European?”, Social Media + Society, 5(4).
 
 [5] Ruiz-Soler, Javier (2018), "The last will be the first. A study of European Issue Publics on Twitter", in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447
  
