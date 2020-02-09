@@ -5,7 +5,7 @@ type: "Conference proceedings talk"
 permalink: /talks/hildesheim
 venue: "Hildesheim University"
 date: 2019-05-25
-location: "hildesheim, Sweden"
+location: "Hildesheim, Germany"
 ---
 
 Conference Paper: The Transnational Public Sphere online.
