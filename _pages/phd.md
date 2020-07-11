@@ -8,7 +8,7 @@ author_profile: true
 {: .text-center} 
 _The Contribution of the European Political Twittersphere to the European Public Sphere and European Demos._
 {: .text-center}
-Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2017-2019). 
+Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2018-2019). 
 {: .text-center}
 
 ![image-center](/images/head.jpg){: .align-center}
