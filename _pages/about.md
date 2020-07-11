@@ -10,7 +10,7 @@ redirect_from:
 
 I am researcher at the [Digital Democracies Lab](https://www.sfu.ca/digital-democracies.html) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focuses on mis- and dis- information.
 {: .text-justify}
-I have been Visiting Scholar at the [Berkman Klein Center for Internet & Society](https://cyber.harvard.edu) at Harvard University in 2020 working with the Misinformation Group.
+I have been Visiting Scholar at the [Berkman Klein Center for Internet & Society](https://cyber.harvard.edu) at Harvard University in 2020 working with the Misinformation Working Group with [Jonas Kaiser](https://cyber.harvard.edu/people/jkaiser), ande [MediaCloud](https://mediacloud.org) with [Fernando Bermejo](https://cyber.harvard.edu/people/fbermejo).
 {: .text-justify}
 I have been a Visiting Scholar at the Digital Media, Networks and Political Communication [(Dimenet)](http://http://dimenet.asc.upenn.edu) research group at the Annenberg School for Communication of the University of Pennsylvania in 2017, with Professor [Sandra González-Bailón](https://www.asc.upenn.edu/node/648). At the Dimenet I have been working with network science, data mining and political communication for my Ph.D.
 {: .text-justify}
