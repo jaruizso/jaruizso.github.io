@@ -7,6 +7,7 @@ author_profile: true
 **Twitter as the new Coffee House?**
 {: .text-center} 
 _The Contribution of the European Political Twittersphere to the European Public Sphere and European Demos._
+Awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2017-2019). 
 {: .text-center}
 
 ![image-center](/images/head.jpg){: .align-center}

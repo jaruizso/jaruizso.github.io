@@ -125,8 +125,13 @@ var addressPoints = [
     -3.703
   ],
     [
-    "Hildesheim, Germany. April 2019. Conference Transformation of the Public Sphere", 
+    "Hildesheim, Germany. May 2019. Conference Transformation of the Public Sphere", 
     51.1509, 
     9.95100
-  ],          
+  ],
+    [
+    "Vancouver, Canada. May 2020. "Misinformation in Canada, SFU Centre for Dialogue", 
+    49.2827, 
+    -123.120735
+  ],           
 ];

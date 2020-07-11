@@ -15,6 +15,7 @@ Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 Education
 ======
 * Ph.D in Political and Social Sciences, European University Institute, 2019.
+	- Awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2017-2019). 
 * M.S. in Research, European University Institute, 2015.
 * M.A. in European Studies, Lund University, 2012.
 	- Erasmus Internship JEF Europe, Brussels
@@ -36,11 +37,6 @@ Work experience
 * Researcher Digital Democracies Lab.
   * Mis- and Dis- information
   * Supervisor: Wendy Chun
-
-
-* Collaborator OpenEUdebate.eu.
-  * data collections of Social Media Data
-  * Supervisor: Luis Bouza
 
 
 * POLCON Project Coder.
@@ -65,8 +61,10 @@ Work experience
   
 Service and leadership
 ====== 
+
 * Programme Advisory Committee for Canada’s Democracy Summit (Ryerson University).
 * Consultant on mis/dis- information on social media in the EU elections 2019 with Wahlbeobachtung Election-Watch EU.
+* Reviewer Mis/Information Review of the Harvard Kennedy School.
 * Reviewer The International Journal of Press/Politics.
 * Reviewer International Journal of Communication USC Annenberg.
 * Reviewer ICA Political Communication Section.

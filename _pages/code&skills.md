@@ -37,8 +37,8 @@ Skills
 ======
 
 COMPUTATIONAL
-- R (4 years)			
-- Python (2 year)
+- R			
+- Python
 - Google Maps API
 - Twitter Capture Analysis Toolkit (TCAT)
 - Twitter API(s)
@@ -46,7 +46,7 @@ COMPUTATIONAL
 - SQL
 - Git
 - Web management (typo3, wordpress, jekyll, octopress)
-- Amazon AWS (3 years)
+- Amazon AWS
 
 DATA VISUALIZATION	
 - Tableau
