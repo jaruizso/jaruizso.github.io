@@ -79,53 +79,59 @@ var addressPoints = [
     59.5139, 
     10.7522  
   ], 
-    [
+  [
     "Stockholm, Sweden. June 2012. European Dialogue on Internet Governance. EuroDIG.", 
     59.329323, 
     18.068581
   ],
-    [
+  [
     "Tartu, Estonia. October 2017. Association of Internet Researchers. AOIR.", 
     58.377, 
     26.72900 
   ],
-    [
+  [
     "Stockholm, Sweden. November 2017. ECREA Symposium Digital Democracy in the age of Big Data. Södertorns Högskola", 
     59.220452, 
     17.943596 
   ],
-    [
+  [
     "Hamburg, Germany. August 2018. ECPR General Conference", 
     53.551086, 
     9.9936
   ], 
-    [
+  [
     "Lugano, Switzerland. November 2018. ECREA Bi-anual General Conference", 
     46.0036, 
     8.9510
   ],
-    [
+  [
     "Sundsvall, Sweden. April 2018. Seminar at Mid Sweden University", 
     62.39081, 
     17.30692
   ],
-    [
+  [
     "Florence, Italy. February 2018. Seminar at Scuola Normale Superiore", 
     43.768700, 
     11.256930
   ],
-    [
+  [
     "Brussels, Belgium. March 2019. Seminar at European Commission DG COMM", 
     50.8503, 
     4.35100
   ],
-    [
+  [
     "Madrid, Spain. January 2019. OpenEUdebate.eu Opening Conference", 
     40.4167, 
     -3.703
   ],
-    [
+  [
     "Hildesheim, Germany. May 2019. Conference Transformation of the Public Sphere", 
     51.1509, 
-    9.95100        
+    9.95100
+  ],
+  [
+    "Vancouver, Canada. May 2020. Misinformation in Canada, SFU Centre for Dialogue", 
+    49.2827, 
+    -123.1207
+  ],         
 ];
