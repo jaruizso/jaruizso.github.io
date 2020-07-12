@@ -130,7 +130,7 @@ var addressPoints = [
     9.95100
   ],
     [
-    "Vancouver, Canada. May 2020. "Misinformation in Canada, SFU Centre for Dialogue", 
+    "Vancouver, Canada. May 2020. Misinformation in Canada, SFU Centre for Dialogue", 
     49.2827, 
     -123.120735
   ],           
