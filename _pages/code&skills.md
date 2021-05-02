@@ -5,7 +5,7 @@ permalink: /code&skills/
 author_profile: true
 ---
 
-During these years I have aquired a toolset of computational and digital methods.
+During these years I have acquired a toolset of computational and digital methods.
 {: .notice--success}
 
 
@@ -33,17 +33,18 @@ DATA VISUALIZATION
 - Infogram
 
 RESEARCH AND DATA ANALYSIS
-- Social Network Analysis (Gephi, iGraph) - Data analytics with Tableau, R and Python
-- Content and Sentiment Analysis with Quanteda and iSA
+- Social Network Analysis with Gephi and iGraph in R.
+- Content and Sentiment Analysis with Quanteda and iSA.
+- Data analytics with Tableau, R and Python.
 
 
 Skills
 ======
 
 COMMUNICATION		
-- Public speaking skills from conferences and professional events
-- Teaching courses about social media & politics, and digital democracy
-- Publication record and writing skills in specialized journals and press
+- Public speaking skills from conferences and professional events.
+- Teaching courses about social media & politics, and digital democracy.
+- Publication record and writing skills in specialized journals and press.
 
 PROJECT MANAGEMENT
 - Strong knowledge in planning, implementation, monitoring, evaluation and time management of complex projects.
