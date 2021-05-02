@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Javier Ruiz-Soler"
 title_separator          : "-"
 name                     : &name "Javier Ruiz-Soler"
-description              : &description "Researcher Digital Democracies Lab at SFU."
+description              : &description "Researcher Digital Democracies Institute at SFU."
 url                      : https://jaruizso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaruizso/jaruizso.github.io"
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-51252091-2"
+    tracking_id          : "271006302"
 
 
 # Site Author
@@ -83,7 +83,7 @@ author:
   name             : ""
   avatar           : "photo.jpg"
   bio              : "Researcher Digital Democracies Lab at Simon Fraser University (SFU)"
-  location         : #"Europe"
+  location         : #"Canada"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=SwQFcfEAAAAJ&hl=en"
   email            : "javier_ruiz_soler@sfu.ca"
@@ -103,7 +103,7 @@ author:
   orcid            : "http://orcid.org/0000-0003-2203-1134"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 5135145/javier-ruiz-soler
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "jaruizso"

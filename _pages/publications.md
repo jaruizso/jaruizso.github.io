@@ -11,15 +11,17 @@ If you have questions or would like to get in touch regarding my research, do no
 Selected Publications
 ======
 
-[7] Ruiz-Soler, Javier (2020), “European Twitter Networks: where are they? Towards a transnational European Public Sphere" **[Under Review]**
+[8] Ruiz-Soler, J. & Chun, W. (2021). “Regionally Alt-Right? #wexit as Digital Public Sphere”, with Wendy Chun. Accepted for Special Issue Politics, Communication and Alt-right, Canadian Journal of Communication, G. Langlois (York University) and G. Elmer (Ryerson University). Publication expected in September 2021.
 
-[6] Ruiz-Soler, Javier (2019), “Commenting on Politics Topics through Twitter. Is European politics European?”, Social Media + Society, 5(4).
+[7] Ruiz-Soler, J. (2020). “European Twitter Networks: Toward a transnational European Public Sphere”, International Journal of Communication, 14:5616-5642.
 
-[5] Ruiz-Soler, Javier (2018), "The last will be the first. A study of European Issue Publics on Twitter", in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447.
+[6] Ruiz-Soler, J., Curini, L., & Ceron. A. (2019). “Commenting on Politics Topics through Twitter. Is European politics European?”, Social Media + Society, 5(4).
+
+[5] Ruiz-Soler, J. (2018). “The last will be the first. A study of European Issue Publics on Twitter”, in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447.
 
 [4] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
-[3] Ruiz-Soler, Javier (2017), “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, 3, ISSN: 2444-0132.
+[3] Ruiz-Soler, J. (2017). “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, University of Valencia, 3/2017: 17-32.
 
 [2] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
 
