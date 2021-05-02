@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "271006302"
+    tracking_id          : "G-HEB4VCKF9G"
 
 
 # Site Author
 author:
   name             : ""
   avatar           : "photo.jpg"
-  bio              : "Researcher Digital Democracies Lab at Simon Fraser University (SFU)"
+  bio              : "Researcher Digital Democracies Institute at Simon Fraser University (SFU)"
   location         : #"Canada"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=SwQFcfEAAAAJ&hl=en"

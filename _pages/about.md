@@ -22,7 +22,7 @@ I have a Ph.D. in Political Communication from the [European University Institut
 
 Before I entered the world of academia, I have been working as a communications consultant and event organizer for different projects and organizations in different countries of Europe. 
 {: .text-justify}
-I speak several languages:Catalan, Spanish, English, Italian, and Swedish. 
+I speak several languages: Catalan, Spanish, English, Italian, and Swedish. 
 {: .text-justify}
 
 Research Interests

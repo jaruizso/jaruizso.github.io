@@ -8,32 +8,8 @@ author_profile: true
 During these years I have aquired a toolset of computational and digital methods.
 {: .notice--success}
 
-Training
-======
 
-
-
-| Course | Place | Date |
-|:--------|:-------:|
-| 6th ICA International Summer School  | U. of Milan   |Juy 18  |
-|-----------------------------|
-| Content and Sentiment analysis of Twitter with iSA   | U. of Milan   |Set-Dec 17   |
-| Big data management, network analysis & text data   | UPF Online   |Sep. 17   |
-|-----------------------------|
-| Data Scientist with R   | Datacamp   |August 17  |
-| Data Analysis with R   | Datacamp   |August 17  |
-|-----------------------------|
-| Latent Semantic Analysis with R    | Ic2s2   |July 17   |
-| Topic Modeling with Python    | Ic2s2  |July 17  |
-|-----------------------------|
-| Network Analysis with iGraph   | U. Penn    |Jan-June 17   |
-| Social Media Analytics  | QUT  |August 16  |
-|=============================|
-| OII Internet Institute Summmer School  | Oxford U.  |June 16  |
-| Quantitative Methods and Statistics   | EUI   |Sep-Dec 15   |
-
-
-Skills
+Code
 ======
 
 COMPUTATIONAL
@@ -56,9 +32,28 @@ DATA VISUALIZATION
 - Google Charts
 - Infogram
 
-RESEARCH AND DATA ANALYSIS		
-- Social Network Analysis (Gephi, iGraph)  
-- Content and Sentiment analysis with quanteda and iSA
+RESEARCH AND DATA ANALYSIS
+- Social Network Analysis (Gephi, iGraph) - Data analytics with Tableau, R and Python
+- Content and Sentiment Analysis with Quanteda and iSA
+
+
+Skills
+======
+
+COMMUNICATION		
+- Public speaking skills from conferences and professional events
+- Teaching courses about social media & politics, and digital democracy
+- Publication record and writing skills in specialized journals and press
+
+PROJECT MANAGEMENT
+- Strong knowledge in planning, implementation, monitoring, evaluation and time management of complex projects.
+- Organized events, workshops and trainings for civil society and industry organizations.
+- Successfully led organizations and projects at the local, national and international level.
+- Microsoft: Office, Teams.
+- Project Management Tools: Asana, Slack, SharePoint.
+	
+LANGUAGES
+- Spanish, Catalan, English and Italian.
 
 
 
