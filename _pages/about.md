@@ -25,7 +25,7 @@ Before I entered the world of academia, I have been working as a communications 
 I speak several languages: Catalan, Spanish, English, Italian, and Swedish. 
 {: .text-justify}
 
-Research Interests
+Research and Policy Interests
 ======
 - Digital Public Sphere, especially European.
 - Political Communication, especially at the European level.
