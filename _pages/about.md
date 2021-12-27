@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Consulting Manager at [IDC Canada](https://www.idc.com/ca/), working on tech market intelligence and advisory services focusing on Networks and Security, helping clients to upscale their digitial transformation.
+I am a Consulting Manager at [International Data Corporation (IDC Canada)](https://www.idc.com/ca/), working on tech market intelligence and advisory services focusing on Networks and Security, helping clients to upscale their digitial transformation.
 {: .text-justify}
 I have been a Senior Researcher at the [Digital Democracies Institute](https://www.digitaldemocracies.org) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focused on dis-information, digital policies and digital government.
 {: .text-justify}
