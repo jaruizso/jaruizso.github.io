@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Consulting Manager at [International Data Corporation (IDC Canada)](https://www.idc.com/ca/), working on tech market intelligence and advisory services conducting research and analysis on leading-edge information technologies (cloud computing, security, networks), helping clients and organizations to upscale their digitial transformation. 
 {: .text-justify}
-I have been a Senior Researcher at the [Digital Democracies Institute](https://www.digitaldemocracies.org) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work focused on dis-information, digital policies and digital government.
+I have been a Senior Researcher at the [Digital Democracies Institute](https://www.digitaldemocracies.org) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work was focused on disinformation, digital policies and digital government.
 {: .text-justify}
 I have been Visiting Scholar at the [Berkman Klein Center for Internet & Society](https://cyber.harvard.edu) at Harvard University in 2020 working with the Misinformation Working Group with [Jonas Kaiser](https://cyber.harvard.edu/people/jkaiser), and [MediaCloud](https://mediacloud.org) with [Fernando Bermejo](https://cyber.harvard.edu/people/fbermejo).
 {: .text-justify}
