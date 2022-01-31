@@ -52,6 +52,12 @@ PROJECT MANAGEMENT
 - Successfully led organizations and projects at the local, national and international level.
 - Microsoft: Office, Teams.
 - Project Management Tools: Asana, Slack, SharePoint.
+
+POLICY
+- White papers, position papers and snapshots.
+- Briefing materials and info briefs.
+- Policy recommendations, policy development.
+- Amendments.
 	
 LANGUAGES
 - Spanish, Catalan, English and Italian.
