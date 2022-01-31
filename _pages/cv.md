@@ -34,7 +34,13 @@ Education
 Work experience
 ======
 
-* Researcher Digital Democracies Institute.
+* Consulting Manager IDC Canada.
+  * Cloud Computing
+  * Security
+  * Networks
+
+
+* Senior Researcher Digital Democracies Institute.
   * Mis- and Dis- information
   * Director: Wendy Chun
 
