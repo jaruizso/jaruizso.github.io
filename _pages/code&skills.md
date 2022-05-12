@@ -5,9 +5,6 @@ permalink: /code&skills/
 author_profile: true
 ---
 
-During these years I have acquired a toolset of computational and digital methods.
-{: .notice--success}
-
 
 Code
 ======
