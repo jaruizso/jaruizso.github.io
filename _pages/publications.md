@@ -11,9 +11,9 @@ If you have questions or would like to get in touch regarding my research, do no
 Selected Publications
 ======
 
-[9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, with Wendy Chun. Accepted for Special Issue Politics, Communication and Alt-right, Canadian Journal of Communication, G. Langlois (York University) and G. Elmer (Ryerson University). Publication expected in January 2022.
+[9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, Canadian Journal of Communication, 47(1): 173-196. **<ins>[LINK](https://cjc-online.ca/index.php/journal/article/view/4121)</ins>**
 
-[8] Ruiz-Soler, J., Lavigne, M., Brin, C., Bridgman, A. (2021) “Disinformation Risk Assessment. The online news media market in Canada”. Global Disinformation Index. **<ins>[LINK](https://disinformationindex.org/wp-content/uploads/2021/10/GDI_Canada-Disinformation-Risk-Report-21_ENGLISH.pdf)</ins>**
+[8] Ruiz-Soler, J., Lavigne, M., Brin, C., Bridgman, A. (2021). “Disinformation Risk Assessment. The online news media market in Canada”. Global Disinformation Index. **<ins>[LINK](https://disinformationindex.org/wp-content/uploads/2021/10/GDI_Canada-Disinformation-Risk-Report-21_ENGLISH.pdf)</ins>**
 
 [7] Neff, T., Kaiser, J., Pasquetto, I. & Ruiz-Soler, J. (2021). “Vaccine misinformation in digital spaces: A systematic review of the research literature”, Misinformation Review Harvard Kennedy School, 2(5). **<ins>[LINK](https://misinforeview.hks.harvard.edu/article/vaccine-hesitancy-in-online-spaces-a-scoping-review-of-the-research-literature-2000-2020/)</ins>**
 
