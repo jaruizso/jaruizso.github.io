@@ -5,7 +5,7 @@ permalink: /phd/
 author_profile: true
 ---
 
-Download the dissertation here.
+Download the dissertation [here](/files/dissertation.pdf){: .btn .btn--success}
 {: .notice--success}
 
 **Twitter as the new Coffee House?**
