@@ -23,11 +23,11 @@ Selected Publications
 
 [4] Ruiz-Soler, J. (2018). “The last will be the first. A study of European Issue Publics on Twitter”, in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447. **<ins>[LINK](http://siba-ese.unisalento.it/index.php/paco/article/view/19549)</ins>**
 
-[3] Ruiz-Soler, Javier (2017), “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
+[3] Ruiz-Soler, J. (2017). “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
 [2] Ruiz-Soler, J. (2017). “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, University of Valencia, 3/2017: 17-32. **<ins>[LINK](https://revistadigitos.com/index.php/digitos/article/view/87)</ins>**
 
-[1] Ruiz-Soler, Javier (2014), “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
+[1] Ruiz-Soler, J. (2014). “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
 
 
 
