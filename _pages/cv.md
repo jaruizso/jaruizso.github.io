@@ -58,5 +58,3 @@ Service and leadership
 * Member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Governemnt of Canada.
 * Advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/).
 * Programme Advisory Committee for Canada’s Democracy Summit (Metropolitan University of Toronto).
-* Consultant on mis/dis- information on social media in the EU elections 2019 with Wahlbeobachtung Election-Watch EU.
-* Reviewer Mis/Information Review of the Harvard Kennedy School.
