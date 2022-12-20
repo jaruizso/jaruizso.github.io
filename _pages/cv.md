@@ -37,23 +37,15 @@ Work experience
 * Consulting Manager IDC Canada.
   * Cloud Computing
   * Security
-  * Networks
-
+  * Artificial Intelligence
 
 * Senior Researcher Digital Democracies Institute.
   * Mis- and Dis- information
   * Director: Wendy Chun
-
-
-* POLCON Project Coder.
-  * Coding of protest events for content analysis
-  * Director: Hanspeter Kriesi
- 
  
 * Communications Manager PriFest Film Festival.
   * Coordination and implementation of the online communication' strategy
   * Project and event management
- 
  
 * Head of Communications TEDx Stockholm.
   * Coordination and implementation of the communications' strategy
@@ -61,21 +53,10 @@ Work experience
   * Press Management
  
   
-* Co-editor bolgginportal.eu.
-  * Curator of blogs, posts and the "Editors choice"  
-   
-  
 Service and leadership
 ====== 
-
-* Programme Advisory Committee for Canada’s Democracy Summit (Ryerson University).
+* Member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Governemnt of Canada.
+* Advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/).
+* Programme Advisory Committee for Canada’s Democracy Summit (Metropolitan University of Toronto).
 * Consultant on mis/dis- information on social media in the EU elections 2019 with Wahlbeobachtung Election-Watch EU.
 * Reviewer Mis/Information Review of the Harvard Kennedy School.
-* Reviewer The International Journal of Press/Politics.
-* Reviewer International Journal of Communication USC Annenberg.
-* Reviewer ICA Political Communication Section.
-* Co-chair and Discussant in Political Networks Panel. ECPR General Conference 2017.
-* Discusant Political Communication panel at the NordMedia Conference 2017.
-* 2018 Organizer Workshop “Social Media and Politics” at the EUI. Guest Professors: Anamaria Dutceac (Lund University) and Michael Bossetta (Copenhagen University).
-* 2016 Organizer Workshop “Python for the Social Sciences” at the EUI. Guest Professor: Jonathan Bright, Oxford University.
-* 2015 Organizer Workshop “Social Scientific Network Analysis” at the EUI. Guest Professor: Carl Nordlund, CEU.
