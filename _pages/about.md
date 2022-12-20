@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Consulting Manager at [International Data Corporation (IDC Canada)](https://www.idc.com/ca/), working on tech market intelligence and advisory services conducting research and analysis on leading-edge information technologies (cloud computing, security, networks), helping clients and organizations to upscale their digitial transformation. 
+I am a Consulting Manager at [International Data Corporation (IDC Canada)](https://www.idc.com/ca/), working on tech market intelligence and advisory services conducting research and analysis on leading-edge information technologies (cloud computing, security, artificial intelligence), helping clients and organizations to upscale their digitial transformation. 
 {: .text-justify}
 I have been a Senior Researcher at the [Digital Democracies Institute](https://www.digitaldemocracies.org) of the School of Communication at the Simon Fraser University (SFU), with Professor [Wendy Chun](https://www.sfu.ca/communication/team/faculty/wendy-chun.html). My work was focused on disinformation, digital policies and digital government.
 {: .text-justify}
@@ -19,7 +19,8 @@ I have also been Visiting Scholar at the Public Opinion & Media Lab [(Pomlab)](h
 {: .text-justify}
 I have a Ph.D. in Political Communication from the [European University Institute (EUI)](http://eui.eu), under the Supervision and guidance of Professor [Alexander Trechsel](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/staff/prof-dr-alexander-trechsel/). My Ph.D. dissertation explored and analyzed the interactions' networks of users under Twitter hashtags of European relevance, as well as its content. The project strived to complement the literature of the European Public Sphere from an innovative computational social sciences approach. I was awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2018-2019). 
 {: .text-justify}
-
+I volunteer as a member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Government of Canada, advising the implementation and assessment of the Open Government National Plan 2022-2024. I also volunteer as advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/) as a matter expert on digital policies: trustworthy artificial intelligence, disinformation, data privacy, transparency.
+{: .text-justify}
 I speak several languages: Catalan, Spanish, English, Italian, and Swedish. 
 {: .text-justify}
 
@@ -28,9 +29,8 @@ Interests
 - Digital Public Sphere, especially European.
 - Tech & Digital Policy.
 - Artificial Intelligence.
-- Social media and politics.
+- GovTech and Digital Government
 - Digital Diplomacy.
-- Digital Government.
 - Digital Democracy.
 - Big Data and politics.
 - Disinformation.
