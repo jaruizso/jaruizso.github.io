@@ -11,7 +11,7 @@ If you have questions or would like to get in touch regarding my research, do no
 Selected Publications
 ======
 
-[9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, Canadian Journal of Communication, 47(1): 173-196. **<ins>[LINK](https://cjc-online.ca/index.php/journal/article/view/4121)</ins>**
+[9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, Canadian Journal of Communication, 47(1): 173-196. **<ins>[LINK](https://cjc.utpjournals.press/doi/full/10.22230/cjc.2022v47n1a4121)</ins>**
 
 [8] Ruiz-Soler, J., Lavigne, M., Brin, C., Bridgman, A. (2021). “Disinformation Risk Assessment. The online news media market in Canada”. Global Disinformation Index. **<ins>[LINK](https://disinformationindex.org/wp-content/uploads/2021/10/GDI_Canada-Disinformation-Risk-Report-21_ENGLISH.pdf)</ins>**
 
