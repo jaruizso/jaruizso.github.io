@@ -15,7 +15,6 @@ Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 Education
 ======
 * Certificate Cyber Security Policy in Canada, Toronto Metropolitan University (Roger Catalyst & The Dais), 2023.
-	- Awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2018-2019). 
 * Ph.D in Political and Social Sciences, European University Institute, 2019.
 	- Awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2018-2019). 
 * M.S. in Research, European University Institute, 2015.
