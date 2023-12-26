@@ -32,14 +32,14 @@ Interests
 ======
 - Digital Public Sphere, especially European.
 - Tech & Digital Policy.
-- Emerging/Disruptive Technologies
+- Emerging/Disruptive Technologies.
 - Artificial Intelligence (Governance, Compliance, Market Share & Vendors).
-- Responsible AI
-- GovTech and Digital Government
+- Responsible AI.
+- GovTech and Digital Government.
 - Digital Diplomacy.
 - Digital Democracy.
 - Big Data and politics.
-- Research Management
+- Research Management.
 - Computational methods, network analysis, content & sentiment analysis.
 - Digital methods: Data mining, Twitter data, issue mapping, social media analytics.
 
