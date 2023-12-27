@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Senior Technology and Policy Advisor at the [Information and Privacy Commissioner of Ontario (IPC)](https://www.ipc.on.ca), conducting research and analysis on leading edge Information Technologies. My work consists on identifing and analyzing trends in technology (information security governance, privacy enhancing technologies, artificial intelligence technologies, data access issuess, and governance) and contributing to developing the IPC’s policy capacity.
 {: .text-justify}
-I am also a Fellow at the Digital Hub of the [Centre for International Governance Innocation (CIGI)](https://www.cigionline.org), researching on Responsible AI and Governance, and the role of Canada in Emerging Technologies in the international policy arena.
+I am also a Fellow at the Digital Hub of the [Centre for International Governance Innovation (CIGI)](https://www.cigionline.org), researching on Responsible AI and Governance, and the role of Canada in Emerging Technologies in the international policy arena.
 {: .text-justify}
 I volunteer as a member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Government of Canada, advising the implementation and assessment of the Open Government National Plan. I also volunteer as Advisor for the [Digital Governance Council](https://dgc-cgn.org) on the development of Standards on AI, security, and privacy. And also as advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/) as a matter expert on digital policies: trustworthy artificial intelligence, disinformation, data privacy, transparency.
 {: .text-justify}
