@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Senior Technology and Policy Advisor at the [Information and Privacy Commissioner of Ontario (IPC)](https://www.ipc.on.ca), conducting research and analysis on leading edge Information Technologies. My work consists on identifing and analyzing trends in technology (information security governance, privacy enhancing technologies, artificial intelligence technologies, data access issuess, and governance) and contributing to developing the IPC’s policy capacity.
+I am a Senior Technology and Policy Advisor at the [Information and Privacy Commissioner of Ontario (IPC)](https://www.ipc.on.ca), conducting research and analysis on leading edge Information Technologies. My work consists on identifing and analyzing trends in technology (cybersecurity, privacy enhancing technologies, artificial intelligence, data access issuess, privacy and governance) and contributing to developing the IPC’s policy capacity.
 {: .text-justify}
-I am also a Fellow at the Digital Hub of the [Centre for International Governance Innovation (CIGI)](https://www.cigionline.org), researching on Responsible AI and Governance, and the role of Canada in Emerging Technologies in the international policy arena.
+I have been Fellow at the Digital Hub of the [Centre for International Governance Innovation (CIGI)](https://www.cigionline.org), researching on Responsible AI and Governance, and the role of Canada in Emerging Technologies in the international policy arena.
 {: .text-justify}
-I volunteer as a member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Government of Canada, advising the implementation and assessment of the Open Government National Plan. I also volunteer as Advisor for the [Digital Governance Council](https://dgc-cgn.org) on the development of Standards on AI, security, and privacy. And also as advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/) as a matter expert on digital policies: trustworthy artificial intelligence, disinformation, data privacy, transparency.
+I voluntered as a member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Government of Canada, advising the implementation and assessment of the Open Government National Plan. I also volunteer as Advisor for the [Digital Governance Council](https://dgc-cgn.org) on the development of Standards on AI, security, and privacy. And also as advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/) as a matter expert on digital policies: trustworthy artificial intelligence, disinformation, data privacy, transparency.
 {: .text-justify}
 In my previous position I have been Consulting Manager at [International Data Corporation (IDC Canada)](https://www.idc.com/ca/), working on tech market intelligence and advisory services conducting research and analysis on leading-edge information technologies (cloud computing, security, artificial intelligence), helping clients and organizations to upscale their digitial transformation. 
 {: .text-justify}
@@ -41,7 +41,7 @@ Interests
 - Big Data and politics.
 - Research Management.
 - Computational methods, network analysis, content & sentiment analysis.
-- Digital methods: Data mining, Twitter data, issue mapping, social media analytics.
+- Digital methods: Data mining, issue mapping, social media analytics.
 
 |-----|-----|-----|------|-----|
 |[![epsa](/images/sm&s.png)](http://www.socialmediaandsociety.org/)|[![aoir](/images/aoir.png)](http://www.aoir.org/)|[![ecrea](/images/ecrea.jpg)](http://www.ecrea.eu/)|[![ecpr](/images/ecpr.png)](http://www.ecpr.eu/)|[![ica](/images/ica.png)](http://www.icahdq.org/)|[![ica](/images/iu.png)](http://www.ic2s2.org/)|
