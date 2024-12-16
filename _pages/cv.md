@@ -28,6 +28,7 @@ Education
   
  Visitings
 ======  
+- Fellow Digital Hub of the Centre for International Governance Innovation (CIGI)
 - Visiting Scholar DIMENET research group, University of Pennsylvania.
 - Visiting Scholar POMLAB, University of Milan.
 - Visiting Scholar Berkman Klein Center, Harvard University.
@@ -38,12 +39,12 @@ Work experience
 
 * Senior Technology and Policy Advisor IPC.
   * Artificial Intelligence
-  * Security
+  * CyberSecurity
   * Privacy
 
 * Consulting Manager IDC Canada.
   * Cloud Computing
-  * Security
+  * CyberSecurity
   * Artificial Intelligence
 
 * Senior Researcher Digital Democracies Institute.
