@@ -10,6 +10,7 @@ If you have questions or would like to get in touch regarding my research, do no
 
 Selected Publications
 ======
+[10] Ruiz-Soler, J. & Araya, D. (2024). "We Need a Global AI Strategy	: What Role for Canada?", Centre for Intenrational Governance Innovation. **<ins>[LINK](https://www.cigionline.org/articles/we-need-a-global-ai-strategy-what-role-for-canada/)</ins>**
 
 [9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, Canadian Journal of Communication, 47(1): 173-196. **<ins>[LINK](https://cjc.utpjournals.press/doi/full/10.22230/cjc.2022v47n1a4121)</ins>**
 
