@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "jaruizso"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -67,7 +67,7 @@ social:
   type                   : Person
   name                   : # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/jaruizso"
+    - 
     - "https://www.linkedin.com/in/jaruizso/"
 
 
@@ -106,7 +106,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "jaruizso"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
