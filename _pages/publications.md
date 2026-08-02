@@ -10,7 +10,9 @@ If you have questions or would like to get in touch regarding my research, do no
 
 Selected Publications
 ======
-[10] Ruiz-Soler, J. & Araya, D. (2024). "We Need a Global AI Strategy	: What Role for Canada?", Centre for Intenrational Governance Innovation. **<ins>[LINK](https://www.cigionline.org/articles/we-need-a-global-ai-strategy-what-role-for-canada/)</ins>**
+[11] Xavier Sylvester, P., Hughes, S., Canute, M., Ruiz-Soler, J., Chun, W. (2026). "Beyond Verification. Algorithmic, but Polyphonic: On the Authenticity of News Stories Covering Anti-Asian Racism", International Journal of Communication, 20: 1932-1954 . **<ins>[LINK](https://ijoc.org/index.php/ijoc/article/view/23133)</ins>**
+
+[10] Ruiz-Soler, J. & Araya, D. (2024). "We Need a Global AI Strategy	: What Role for Canada?", Centre for International Governance Innovation. **<ins>[LINK](https://www.cigionline.org/articles/we-need-a-global-ai-strategy-what-role-for-canada/)</ins>**
 
 [9] Ruiz-Soler, J. & Chun, W. (2022). “Regionally Alt-Right? #wexit as Digital Public Sphere”, Canadian Journal of Communication, 47(1): 173-196. **<ins>[LINK](https://cjc.utpjournals.press/doi/full/10.22230/cjc.2022v47n1a4121)</ins>**
 
@@ -22,11 +24,11 @@ Selected Publications
 
 [5] Ruiz-Soler, J., Curini, L., & Ceron. A. (2019). “Commenting on Politics Topics through Twitter. Is European politics European?”, Social Media + Society, 5(4). **<ins>[LINK](https://journals.sagepub.com/doi/full/10.1177/2056305119890882)</ins>**
 
-[4] Ruiz-Soler, J. (2018). “The last will be the first. A study of European Issue Publics on Twitter”, in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447. **<ins>[LINK](http://siba-ese.unisalento.it/index.php/paco/article/view/19549)</ins>**
+[4] Ruiz-Soler, J. (2018). “The last will be the first. A study of European Issue Publics on Twitter”, in E. Pavan and A. Mattoni (eds.), Partecipazione e conflitto, special issue The Big Data Challenge. From Big Data in Politics to the Politics of Big Data, 11(2): 423-447. DOI: 10.1285/i20356609v11i2p423 **<ins>[LINK](https://cadmus.eui.eu/entities/publication/ba8bf8fd-b1de-5631-adf5-1a8f639964c0)</ins>**
 
 [3] Ruiz-Soler, J. (2017). “The European Public Sphere: exist, can exist, will exist”, APUZ-Bdp Bundestag Magazine. (In German).
 
-[2] Ruiz-Soler, J. (2017). “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, University of Valencia, 3/2017: 17-32. **<ins>[LINK](https://revistadigitos.com/index.php/digitos/article/view/87)</ins>**
+[2] Ruiz-Soler, J. (2017). “Twitter research for social scientists: a brief introduction to the benefits, limitations and tools for analysing Twitter data”, Revista Dígitos, University of Valencia, 3/2017: 17-32. DOI: https://doi.org/10.7203/rd.v1i3.87 **<ins>[LINK](https://turia.uv.es/index.php/digitos/en/article/view/31495)</ins>**
 
 [1] Ruiz-Soler, J. (2014). “The role of the Euroblogosphere in a context of a European Public Sphere”, in: A. Stepinska (ed.) Media and Communication in Europe, Logos Verlag, 61-73, ISBN 978-3-8325-3680-0.
 
