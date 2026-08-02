@@ -51,10 +51,6 @@ Work experience
   * Mis- and Dis- information
   * Director: Wendy Chun
  
-* Communications Manager PriFest Film Festival.
-  * Coordination and implementation of the online communication' strategy
-  * Project and event management
- 
 * Head of Communications TEDx Stockholm.
   * Coordination and implementation of the communications' strategy
   * Project and event management
@@ -66,5 +62,4 @@ Service and leadership
 * Digital Hub Fellow [Centre for International Governance Innovation (CIGI)](https://www.cigionline.org).
 * Advisor [Digital Governance Council](https://dgc-cgn.org).  
 * Member of the [Multi-Stakeholder Forum on Open Government](https://open.canada.ca/en/multi-stakeholder-forum-open-government) of the Governemnt of Canada.
-* Advisor in the [Canadian Center for Non-Profit Digital Resilience](https://ccndr.ca/).
 * Programme Advisory Committee for Canada’s Democracy Summit (Metropolitan University of Toronto).
