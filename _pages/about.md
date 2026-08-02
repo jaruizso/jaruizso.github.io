@@ -31,17 +31,13 @@ I speak several languages: Catalan, Spanish, English, Italian, and Swedish.
 Interests
 ======
 - Digital Public Sphere, especially European.
+- Privacy
 - Tech & Digital Policy.
 - Emerging/Disruptive Technologies.
-- Artificial Intelligence (Governance, Compliance, Market Share & Vendors).
 - Responsible AI.
 - GovTech and Digital Government.
 - Digital Diplomacy.
 - Digital Democracy.
-- Big Data and politics.
-- Research Management.
+- Big Data and Politics.
 - Computational methods, network analysis, content & sentiment analysis.
 - Digital methods: Data mining, issue mapping, social media analytics.
-
-|-----|-----|-----|------|-----|
-|[![epsa](/images/sm&s.png)](http://www.socialmediaandsociety.org/)|[![aoir](/images/aoir.png)](http://www.aoir.org/)|[![ecrea](/images/ecrea.jpg)](http://www.ecrea.eu/)|[![ecpr](/images/ecpr.png)](http://www.ecpr.eu/)|[![ica](/images/ica.png)](http://www.icahdq.org/)|[![ica](/images/iu.png)](http://www.ic2s2.org/)|
