@@ -14,6 +14,7 @@ Download the CV [here](/files/CV_Javier.pdf){: .btn .btn--success}
 
 Education
 ======
+* Certificate Navigating AI: AI Agents, Institute of Public Administration of Canada (IPAC), 2026.
 * Certificate Cyber Security Policy in Canada, Toronto Metropolitan University (Roger Catalyst & The Dais), 2023.
 * Ph.D in Political and Social Sciences, European University Institute, 2019.
 	- Awarded Best Thesis in Political Communication from the Spanish Association of Political Communication (ACOP) (2018-2019). 
@@ -41,6 +42,7 @@ Work experience
   * Artificial Intelligence
   * CyberSecurity
   * Privacy
+  * Technology Policy
 
 * Consulting Manager IDC Canada.
   * Cloud Computing
