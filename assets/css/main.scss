@@ -32,6 +32,9 @@
 
 @import "page";
 @import "archive";
+.fa-professional-network::before {
+  content: "\f08c";
+}
 @import "sidebar";
 
 @import "vendor/font-awesome/font-awesome";
